@@ -1,0 +1,2836 @@
+,arr_delay,name
+0,11.0,United Air Lines Inc.
+1,20.0,United Air Lines Inc.
+2,33.0,American Airlines Inc.
+3,-18.0,JetBlue Airways
+4,-25.0,Delta Air Lines Inc.
+5,12.0,United Air Lines Inc.
+6,19.0,JetBlue Airways
+7,-14.0,ExpressJet Airlines Inc.
+8,-8.0,JetBlue Airways
+9,8.0,American Airlines Inc.
+10,-2.0,JetBlue Airways
+11,-3.0,JetBlue Airways
+12,7.0,United Air Lines Inc.
+13,-14.0,United Air Lines Inc.
+14,31.0,American Airlines Inc.
+15,-4.0,JetBlue Airways
+16,-8.0,United Air Lines Inc.
+17,-7.0,JetBlue Airways
+18,12.0,Envoy Air
+19,-6.0,JetBlue Airways
+20,-8.0,Delta Air Lines Inc.
+21,16.0,Envoy Air
+22,-12.0,American Airlines Inc.
+23,-8.0,Delta Air Lines Inc.
+24,-17.0,United Air Lines Inc.
+25,32.0,Envoy Air
+26,14.0,United Air Lines Inc.
+27,4.0,JetBlue Airways
+28,-21.0,JetBlue Airways
+29,-9.0,Delta Air Lines Inc.
+30,3.0,US Airways Inc.
+31,5.0,American Airlines Inc.
+32,1.0,United Air Lines Inc.
+33,29.0,ExpressJet Airlines Inc.
+34,10.0,Envoy Air
+35,0.0,US Airways Inc.
+36,-3.0,American Airlines Inc.
+37,29.0,United Air Lines Inc.
+38,14.0,American Airlines Inc.
+39,-19.0,Southwest Airlines Co.
+40,-9.0,US Airways Inc.
+41,12.0,ExpressJet Airlines Inc.
+42,48.0,American Airlines Inc.
+43,-5.0,JetBlue Airways
+44,-10.0,JetBlue Airways
+45,-18.0,United Air Lines Inc.
+46,-11.0,US Airways Inc.
+47,-9.0,United Air Lines Inc.
+48,5.0,JetBlue Airways
+49,-6.0,United Air Lines Inc.
+50,-7.0,United Air Lines Inc.
+51,-6.0,JetBlue Airways
+52,11.0,JetBlue Airways
+53,-33.0,Delta Air Lines Inc.
+54,-9.0,Delta Air Lines Inc.
+55,-8.0,Delta Air Lines Inc.
+56,-18.0,Delta Air Lines Inc.
+57,4.0,American Airlines Inc.
+58,-10.0,American Airlines Inc.
+59,27.0,Envoy Air
+60,-23.0,United Air Lines Inc.
+61,-14.0,Delta Air Lines Inc.
+62,5.0,Delta Air Lines Inc.
+63,2.0,Virgin America
+64,-7.0,American Airlines Inc.
+65,1.0,JetBlue Airways
+66,-6.0,Delta Air Lines Inc.
+67,-9.0,United Air Lines Inc.
+68,-31.0,United Air Lines Inc.
+69,44.0,JetBlue Airways
+70,20.0,United Air Lines Inc.
+71,-15.0,JetBlue Airways
+72,-12.0,American Airlines Inc.
+73,21.0,United Air Lines Inc.
+74,10.0,AirTran Airways Corporation
+75,5.0,JetBlue Airways
+76,-4.0,United Air Lines Inc.
+77,31.0,American Airlines Inc.
+78,-10.0,Alaska Airlines Inc.
+79,12.0,American Airlines Inc.
+80,7.0,United Air Lines Inc.
+81,3.0,United Air Lines Inc.
+82,-26.0,Virgin America
+83,-1.0,JetBlue Airways
+84,2.0,JetBlue Airways
+85,30.0,United Air Lines Inc.
+86,4.0,JetBlue Airways
+87,-26.0,JetBlue Airways
+88,-12.0,American Airlines Inc.
+89,26.0,United Air Lines Inc.
+90,2.0,JetBlue Airways
+91,7.0,American Airlines Inc.
+92,-11.0,JetBlue Airways
+93,3.0,Delta Air Lines Inc.
+94,10.0,American Airlines Inc.
+95,-10.0,United Air Lines Inc.
+96,49.0,Envoy Air
+97,-18.0,Delta Air Lines Inc.
+98,-4.0,United Air Lines Inc.
+99,-4.0,US Airways Inc.
+100,-14.0,American Airlines Inc.
+101,-2.0,Delta Air Lines Inc.
+102,33.0,Southwest Airlines Co.
+103,-1.0,JetBlue Airways
+104,-30.0,Delta Air Lines Inc.
+105,8.0,Delta Air Lines Inc.
+106,-6.0,Envoy Air
+107,-19.0,JetBlue Airways
+108,-22.0,American Airlines Inc.
+109,-12.0,United Air Lines Inc.
+110,-13.0,Delta Air Lines Inc.
+111,10.0,JetBlue Airways
+112,12.0,JetBlue Airways
+113,-4.0,Envoy Air
+114,0.0,Delta Air Lines Inc.
+115,-7.0,ExpressJet Airlines Inc.
+116,11.0,Endeavor Air Inc.
+117,-28.0,Delta Air Lines Inc.
+118,-26.0,ExpressJet Airlines Inc.
+120,10.0,US Airways Inc.
+121,23.0,ExpressJet Airlines Inc.
+122,7.0,Delta Air Lines Inc.
+123,17.0,AirTran Airways Corporation
+124,17.0,JetBlue Airways
+125,-16.0,JetBlue Airways
+126,-14.0,Delta Air Lines Inc.
+127,-40.0,Delta Air Lines Inc.
+128,24.0,JetBlue Airways
+129,-13.0,Envoy Air
+130,-2.0,ExpressJet Airlines Inc.
+131,-5.0,US Airways Inc.
+132,16.0,United Air Lines Inc.
+133,2.0,American Airlines Inc.
+134,-7.0,JetBlue Airways
+135,51.0,American Airlines Inc.
+136,-13.0,United Air Lines Inc.
+137,15.0,JetBlue Airways
+138,7.0,United Air Lines Inc.
+139,-8.0,United Air Lines Inc.
+140,-23.0,United Air Lines Inc.
+141,3.0,American Airlines Inc.
+142,-13.0,Envoy Air
+143,-18.0,ExpressJet Airlines Inc.
+144,-24.0,Envoy Air
+145,32.0,Frontier Airlines Inc.
+146,20.0,American Airlines Inc.
+147,-8.0,Envoy Air
+148,-39.0,American Airlines Inc.
+149,-9.0,Delta Air Lines Inc.
+150,-27.0,JetBlue Airways
+152,19.0,United Air Lines Inc.
+153,-4.0,ExpressJet Airlines Inc.
+154,-3.0,Delta Air Lines Inc.
+155,9.0,United Air Lines Inc.
+156,26.0,Southwest Airlines Co.
+157,2.0,JetBlue Airways
+158,-2.0,Delta Air Lines Inc.
+159,6.0,American Airlines Inc.
+160,-10.0,Delta Air Lines Inc.
+161,-23.0,United Air Lines Inc.
+162,-14.0,Hawaiian Airlines Inc.
+163,-13.0,Delta Air Lines Inc.
+164,-9.0,Delta Air Lines Inc.
+165,-25.0,United Air Lines Inc.
+166,-8.0,Envoy Air
+167,-24.0,Delta Air Lines Inc.
+168,-2.0,Virgin America
+169,8.0,United Air Lines Inc.
+170,3.0,United Air Lines Inc.
+171,50.0,Envoy Air
+172,-19.0,United Air Lines Inc.
+173,40.0,JetBlue Airways
+174,9.0,United Air Lines Inc.
+175,-7.0,JetBlue Airways
+176,-29.0,US Airways Inc.
+177,9.0,United Air Lines Inc.
+178,16.0,American Airlines Inc.
+179,21.0,American Airlines Inc.
+180,-7.0,United Air Lines Inc.
+181,-30.0,United Air Lines Inc.
+182,4.0,American Airlines Inc.
+183,15.0,United Air Lines Inc.
+184,28.0,American Airlines Inc.
+185,-5.0,JetBlue Airways
+186,-16.0,JetBlue Airways
+187,14.0,JetBlue Airways
+188,27.0,Envoy Air
+189,10.0,Delta Air Lines Inc.
+190,-4.0,JetBlue Airways
+191,-17.0,JetBlue Airways
+192,2.0,JetBlue Airways
+193,13.0,United Air Lines Inc.
+194,-26.0,Delta Air Lines Inc.
+195,-14.0,ExpressJet Airlines Inc.
+196,30.0,Southwest Airlines Co.
+197,9.0,United Air Lines Inc.
+198,-1.0,JetBlue Airways
+199,13.0,United Air Lines Inc.
+200,-6.0,Virgin America
+201,-5.0,JetBlue Airways
+202,42.0,JetBlue Airways
+203,15.0,Southwest Airlines Co.
+204,-16.0,Delta Air Lines Inc.
+205,-12.0,Delta Air Lines Inc.
+206,3.0,JetBlue Airways
+207,7.0,Southwest Airlines Co.
+208,-11.0,American Airlines Inc.
+209,6.0,Envoy Air
+210,2.0,JetBlue Airways
+211,-16.0,ExpressJet Airlines Inc.
+212,-17.0,JetBlue Airways
+213,13.0,ExpressJet Airlines Inc.
+214,12.0,Envoy Air
+215,39.0,United Air Lines Inc.
+216,11.0,US Airways Inc.
+217,0.0,Delta Air Lines Inc.
+219,-6.0,Delta Air Lines Inc.
+220,-15.0,US Airways Inc.
+221,-25.0,JetBlue Airways
+222,39.0,US Airways Inc.
+223,5.0,United Air Lines Inc.
+224,7.0,Envoy Air
+225,-10.0,Delta Air Lines Inc.
+226,-6.0,US Airways Inc.
+227,11.0,US Airways Inc.
+228,5.0,ExpressJet Airlines Inc.
+229,-21.0,Delta Air Lines Inc.
+230,2.0,AirTran Airways Corporation
+231,-10.0,ExpressJet Airlines Inc.
+232,-11.0,Envoy Air
+233,26.0,American Airlines Inc.
+234,-4.0,United Air Lines Inc.
+235,11.0,American Airlines Inc.
+236,11.0,United Air Lines Inc.
+237,32.0,American Airlines Inc.
+238,-17.0,ExpressJet Airlines Inc.
+239,-22.0,Virgin America
+240,-11.0,United Air Lines Inc.
+241,15.0,ExpressJet Airlines Inc.
+242,-6.0,United Air Lines Inc.
+243,11.0,American Airlines Inc.
+244,21.0,United Air Lines Inc.
+245,-1.0,JetBlue Airways
+246,19.0,ExpressJet Airlines Inc.
+247,1.0,United Air Lines Inc.
+248,-11.0,United Air Lines Inc.
+249,-6.0,American Airlines Inc.
+250,-9.0,Delta Air Lines Inc.
+251,12.0,Envoy Air
+252,4.0,JetBlue Airways
+253,-13.0,Delta Air Lines Inc.
+254,-6.0,ExpressJet Airlines Inc.
+255,-6.0,Delta Air Lines Inc.
+256,-6.0,US Airways Inc.
+257,-14.0,Southwest Airlines Co.
+258,-5.0,Envoy Air
+259,-9.0,United Air Lines Inc.
+260,13.0,JetBlue Airways
+261,-11.0,Delta Air Lines Inc.
+262,23.0,United Air Lines Inc.
+263,-5.0,Envoy Air
+264,-23.0,American Airlines Inc.
+265,-4.0,JetBlue Airways
+266,2.0,United Air Lines Inc.
+267,3.0,Delta Air Lines Inc.
+269,78.0,ExpressJet Airlines Inc.
+270,5.0,Southwest Airlines Co.
+271,34.0,United Air Lines Inc.
+272,4.0,JetBlue Airways
+273,0.0,Delta Air Lines Inc.
+274,-7.0,US Airways Inc.
+275,-6.0,ExpressJet Airlines Inc.
+276,16.0,United Air Lines Inc.
+277,-4.0,United Air Lines Inc.
+278,-15.0,United Air Lines Inc.
+279,-4.0,American Airlines Inc.
+280,3.0,Delta Air Lines Inc.
+281,-6.0,Envoy Air
+282,3.0,JetBlue Airways
+283,-2.0,Virgin America
+284,-16.0,American Airlines Inc.
+285,-6.0,Delta Air Lines Inc.
+286,5.0,United Air Lines Inc.
+287,11.0,ExpressJet Airlines Inc.
+288,8.0,AirTran Airways Corporation
+289,-12.0,ExpressJet Airlines Inc.
+290,9.0,ExpressJet Airlines Inc.
+291,29.0,JetBlue Airways
+292,-39.0,Delta Air Lines Inc.
+293,-13.0,JetBlue Airways
+294,22.0,Envoy Air
+295,7.0,American Airlines Inc.
+296,-12.0,Delta Air Lines Inc.
+297,1.0,Delta Air Lines Inc.
+298,-3.0,Envoy Air
+299,-5.0,ExpressJet Airlines Inc.
+300,-3.0,Envoy Air
+301,-4.0,United Air Lines Inc.
+302,10.0,American Airlines Inc.
+303,-4.0,Southwest Airlines Co.
+304,7.0,United Air Lines Inc.
+305,12.0,US Airways Inc.
+306,4.0,ExpressJet Airlines Inc.
+307,-8.0,United Air Lines Inc.
+308,24.0,ExpressJet Airlines Inc.
+309,-26.0,Virgin America
+310,12.0,JetBlue Airways
+311,-2.0,United Air Lines Inc.
+312,-3.0,ExpressJet Airlines Inc.
+313,38.0,JetBlue Airways
+314,10.0,ExpressJet Airlines Inc.
+315,24.0,Envoy Air
+316,-4.0,United Air Lines Inc.
+317,0.0,American Airlines Inc.
+318,-9.0,Delta Air Lines Inc.
+319,23.0,Southwest Airlines Co.
+320,43.0,ExpressJet Airlines Inc.
+321,-6.0,JetBlue Airways
+322,27.0,United Air Lines Inc.
+323,2.0,ExpressJet Airlines Inc.
+324,3.0,Delta Air Lines Inc.
+325,-6.0,United Air Lines Inc.
+326,-10.0,American Airlines Inc.
+327,5.0,Southwest Airlines Co.
+328,23.0,ExpressJet Airlines Inc.
+329,-6.0,American Airlines Inc.
+330,0.0,Envoy Air
+331,-13.0,ExpressJet Airlines Inc.
+332,1.0,Delta Air Lines Inc.
+333,-38.0,Delta Air Lines Inc.
+334,36.0,JetBlue Airways
+335,0.0,United Air Lines Inc.
+336,16.0,JetBlue Airways
+337,34.0,American Airlines Inc.
+338,48.0,United Air Lines Inc.
+339,4.0,Delta Air Lines Inc.
+340,5.0,Southwest Airlines Co.
+341,81.0,Envoy Air
+342,-1.0,US Airways Inc.
+343,-8.0,US Airways Inc.
+344,-9.0,JetBlue Airways
+345,4.0,Envoy Air
+346,-5.0,AirTran Airways Corporation
+347,19.0,American Airlines Inc.
+348,53.0,American Airlines Inc.
+349,93.0,Envoy Air
+350,26.0,United Air Lines Inc.
+351,-2.0,JetBlue Airways
+352,-8.0,United Air Lines Inc.
+353,56.0,ExpressJet Airlines Inc.
+354,12.0,JetBlue Airways
+355,3.0,Envoy Air
+356,27.0,American Airlines Inc.
+357,12.0,Southwest Airlines Co.
+358,5.0,JetBlue Airways
+359,2.0,US Airways Inc.
+360,-10.0,ExpressJet Airlines Inc.
+361,-3.0,ExpressJet Airlines Inc.
+362,-11.0,Envoy Air
+363,-18.0,ExpressJet Airlines Inc.
+364,-3.0,JetBlue Airways
+365,-11.0,United Air Lines Inc.
+366,43.0,Delta Air Lines Inc.
+367,1.0,Delta Air Lines Inc.
+368,-17.0,Virgin America
+369,-5.0,United Air Lines Inc.
+370,37.0,ExpressJet Airlines Inc.
+371,0.0,JetBlue Airways
+372,8.0,ExpressJet Airlines Inc.
+373,78.0,JetBlue Airways
+374,-23.0,American Airlines Inc.
+375,23.0,JetBlue Airways
+376,4.0,American Airlines Inc.
+377,73.0,ExpressJet Airlines Inc.
+378,18.0,American Airlines Inc.
+379,21.0,United Air Lines Inc.
+380,26.0,Southwest Airlines Co.
+381,11.0,ExpressJet Airlines Inc.
+382,-14.0,JetBlue Airways
+383,-13.0,ExpressJet Airlines Inc.
+384,24.0,ExpressJet Airlines Inc.
+385,-4.0,ExpressJet Airlines Inc.
+386,-22.0,Delta Air Lines Inc.
+387,46.0,ExpressJet Airlines Inc.
+388,-4.0,JetBlue Airways
+389,22.0,Southwest Airlines Co.
+390,27.0,Envoy Air
+391,60.0,United Air Lines Inc.
+392,11.0,United Air Lines Inc.
+393,19.0,United Air Lines Inc.
+394,27.0,US Airways Inc.
+395,103.0,ExpressJet Airlines Inc.
+396,-2.0,Delta Air Lines Inc.
+397,84.0,ExpressJet Airlines Inc.
+398,6.0,AirTran Airways Corporation
+399,66.0,JetBlue Airways
+400,14.0,United Air Lines Inc.
+401,-6.0,United Air Lines Inc.
+402,7.0,Envoy Air
+403,-18.0,JetBlue Airways
+404,26.0,JetBlue Airways
+405,-28.0,Delta Air Lines Inc.
+406,18.0,Envoy Air
+407,-11.0,United Air Lines Inc.
+408,-15.0,ExpressJet Airlines Inc.
+409,65.0,ExpressJet Airlines Inc.
+410,15.0,ExpressJet Airlines Inc.
+411,83.0,JetBlue Airways
+412,26.0,United Air Lines Inc.
+413,-9.0,United Air Lines Inc.
+414,5.0,JetBlue Airways
+415,11.0,United Air Lines Inc.
+416,-8.0,Delta Air Lines Inc.
+417,20.0,Delta Air Lines Inc.
+418,-15.0,Delta Air Lines Inc.
+419,15.0,Delta Air Lines Inc.
+420,-27.0,American Airlines Inc.
+421,-2.0,ExpressJet Airlines Inc.
+422,-10.0,American Airlines Inc.
+423,19.0,Envoy Air
+424,-22.0,American Airlines Inc.
+425,4.0,US Airways Inc.
+426,11.0,Envoy Air
+427,-2.0,Endeavor Air Inc.
+428,-2.0,Endeavor Air Inc.
+429,-18.0,JetBlue Airways
+430,22.0,Envoy Air
+431,-19.0,US Airways Inc.
+432,-21.0,ExpressJet Airlines Inc.
+433,-1.0,Endeavor Air Inc.
+434,-22.0,Delta Air Lines Inc.
+435,1.0,JetBlue Airways
+436,10.0,JetBlue Airways
+437,-17.0,Delta Air Lines Inc.
+438,17.0,United Air Lines Inc.
+439,17.0,United Air Lines Inc.
+440,-17.0,United Air Lines Inc.
+441,-4.0,US Airways Inc.
+442,3.0,Envoy Air
+443,0.0,ExpressJet Airlines Inc.
+444,-1.0,United Air Lines Inc.
+445,3.0,JetBlue Airways
+446,-4.0,United Air Lines Inc.
+448,-1.0,Envoy Air
+449,18.0,American Airlines Inc.
+450,-18.0,United Air Lines Inc.
+451,-5.0,Endeavor Air Inc.
+452,3.0,Envoy Air
+453,26.0,United Air Lines Inc.
+454,0.0,JetBlue Airways
+455,11.0,Delta Air Lines Inc.
+456,-3.0,Delta Air Lines Inc.
+457,-18.0,JetBlue Airways
+458,11.0,ExpressJet Airlines Inc.
+459,5.0,Envoy Air
+460,52.0,JetBlue Airways
+461,5.0,United Air Lines Inc.
+462,60.0,American Airlines Inc.
+463,-12.0,Envoy Air
+464,1.0,United Air Lines Inc.
+465,7.0,Delta Air Lines Inc.
+466,6.0,Envoy Air
+467,3.0,United Air Lines Inc.
+468,3.0,United Air Lines Inc.
+469,27.0,JetBlue Airways
+472,24.0,Southwest Airlines Co.
+473,-14.0,American Airlines Inc.
+474,27.0,JetBlue Airways
+475,-21.0,JetBlue Airways
+476,44.0,United Air Lines Inc.
+478,6.0,American Airlines Inc.
+479,46.0,United Air Lines Inc.
+480,-4.0,US Airways Inc.
+481,-5.0,Endeavor Air Inc.
+482,34.0,ExpressJet Airlines Inc.
+483,47.0,ExpressJet Airlines Inc.
+484,19.0,United Air Lines Inc.
+485,20.0,ExpressJet Airlines Inc.
+486,19.0,Southwest Airlines Co.
+487,-24.0,Delta Air Lines Inc.
+488,-6.0,American Airlines Inc.
+489,-17.0,American Airlines Inc.
+490,35.0,United Air Lines Inc.
+491,115.0,JetBlue Airways
+492,-21.0,Delta Air Lines Inc.
+493,8.0,Delta Air Lines Inc.
+494,-2.0,United Air Lines Inc.
+495,5.0,Endeavor Air Inc.
+496,8.0,Delta Air Lines Inc.
+497,91.0,Envoy Air
+499,-8.0,United Air Lines Inc.
+500,13.0,Endeavor Air Inc.
+501,12.0,ExpressJet Airlines Inc.
+502,6.0,AirTran Airways Corporation
+503,-8.0,Endeavor Air Inc.
+504,18.0,American Airlines Inc.
+505,-33.0,Endeavor Air Inc.
+506,16.0,Delta Air Lines Inc.
+507,10.0,Envoy Air
+508,-2.0,ExpressJet Airlines Inc.
+509,-29.0,Delta Air Lines Inc.
+510,4.0,United Air Lines Inc.
+511,65.0,ExpressJet Airlines Inc.
+513,7.0,JetBlue Airways
+514,-28.0,Delta Air Lines Inc.
+515,-17.0,Endeavor Air Inc.
+516,15.0,United Air Lines Inc.
+517,-4.0,Delta Air Lines Inc.
+518,12.0,ExpressJet Airlines Inc.
+519,12.0,JetBlue Airways
+520,9.0,Southwest Airlines Co.
+521,28.0,Envoy Air
+522,6.0,United Air Lines Inc.
+523,67.0,Envoy Air
+524,4.0,American Airlines Inc.
+525,20.0,JetBlue Airways
+526,78.0,United Air Lines Inc.
+527,72.0,American Airlines Inc.
+528,28.0,American Airlines Inc.
+529,-23.0,JetBlue Airways
+530,-35.0,Delta Air Lines Inc.
+531,-3.0,Delta Air Lines Inc.
+532,18.0,Delta Air Lines Inc.
+533,29.0,United Air Lines Inc.
+534,20.0,ExpressJet Airlines Inc.
+535,17.0,Envoy Air
+536,23.0,United Air Lines Inc.
+537,34.0,Delta Air Lines Inc.
+538,3.0,US Airways Inc.
+539,4.0,American Airlines Inc.
+540,15.0,JetBlue Airways
+541,2.0,Delta Air Lines Inc.
+542,80.0,JetBlue Airways
+543,-40.0,Virgin America
+544,59.0,ExpressJet Airlines Inc.
+545,-16.0,Delta Air Lines Inc.
+546,67.0,ExpressJet Airlines Inc.
+547,-30.0,JetBlue Airways
+548,13.0,ExpressJet Airlines Inc.
+549,-4.0,US Airways Inc.
+550,-15.0,United Air Lines Inc.
+551,23.0,Southwest Airlines Co.
+552,14.0,Envoy Air
+553,21.0,United Air Lines Inc.
+554,20.0,United Air Lines Inc.
+555,-8.0,JetBlue Airways
+556,39.0,Endeavor Air Inc.
+557,96.0,ExpressJet Airlines Inc.
+558,9.0,Envoy Air
+559,-34.0,American Airlines Inc.
+560,25.0,United Air Lines Inc.
+561,16.0,ExpressJet Airlines Inc.
+562,26.0,ExpressJet Airlines Inc.
+563,56.0,JetBlue Airways
+564,-4.0,JetBlue Airways
+565,35.0,American Airlines Inc.
+566,-13.0,Delta Air Lines Inc.
+567,-1.0,ExpressJet Airlines Inc.
+568,-14.0,Delta Air Lines Inc.
+569,40.0,ExpressJet Airlines Inc.
+570,3.0,American Airlines Inc.
+571,-22.0,Delta Air Lines Inc.
+572,-5.0,Virgin America
+573,-14.0,American Airlines Inc.
+574,41.0,Southwest Airlines Co.
+575,22.0,United Air Lines Inc.
+576,-32.0,Envoy Air
+577,11.0,American Airlines Inc.
+578,16.0,United Air Lines Inc.
+579,16.0,United Air Lines Inc.
+580,44.0,American Airlines Inc.
+581,9.0,US Airways Inc.
+582,-12.0,Delta Air Lines Inc.
+583,6.0,United Air Lines Inc.
+584,32.0,Southwest Airlines Co.
+585,14.0,ExpressJet Airlines Inc.
+586,33.0,JetBlue Airways
+587,68.0,JetBlue Airways
+588,-19.0,United Air Lines Inc.
+589,6.0,United Air Lines Inc.
+590,-8.0,JetBlue Airways
+591,0.0,American Airlines Inc.
+592,-6.0,Frontier Airlines Inc.
+593,61.0,JetBlue Airways
+594,16.0,United Air Lines Inc.
+595,10.0,American Airlines Inc.
+596,-7.0,JetBlue Airways
+597,3.0,Envoy Air
+598,16.0,Delta Air Lines Inc.
+599,3.0,US Airways Inc.
+600,24.0,United Air Lines Inc.
+601,4.0,American Airlines Inc.
+602,-18.0,United Air Lines Inc.
+603,3.0,American Airlines Inc.
+604,107.0,ExpressJet Airlines Inc.
+605,-3.0,United Air Lines Inc.
+606,14.0,AirTran Airways Corporation
+607,16.0,JetBlue Airways
+608,-19.0,United Air Lines Inc.
+610,46.0,JetBlue Airways
+611,-12.0,JetBlue Airways
+612,3.0,Delta Air Lines Inc.
+613,-21.0,Delta Air Lines Inc.
+614,68.0,Delta Air Lines Inc.
+616,-24.0,Delta Air Lines Inc.
+617,66.0,Endeavor Air Inc.
+618,-2.0,JetBlue Airways
+619,27.0,JetBlue Airways
+620,-4.0,Delta Air Lines Inc.
+621,10.0,Southwest Airlines Co.
+622,34.0,JetBlue Airways
+623,-6.0,United Air Lines Inc.
+624,4.0,JetBlue Airways
+625,65.0,Southwest Airlines Co.
+626,21.0,JetBlue Airways
+627,17.0,United Air Lines Inc.
+628,51.0,ExpressJet Airlines Inc.
+629,-15.0,Delta Air Lines Inc.
+630,-12.0,JetBlue Airways
+631,-5.0,JetBlue Airways
+632,37.0,United Air Lines Inc.
+633,8.0,ExpressJet Airlines Inc.
+634,-6.0,JetBlue Airways
+635,-3.0,United Air Lines Inc.
+636,-14.0,Delta Air Lines Inc.
+637,-12.0,United Air Lines Inc.
+638,37.0,ExpressJet Airlines Inc.
+640,20.0,US Airways Inc.
+641,-2.0,United Air Lines Inc.
+642,17.0,Envoy Air
+644,-19.0,Alaska Airlines Inc.
+645,-15.0,JetBlue Airways
+646,14.0,United Air Lines Inc.
+647,116.0,ExpressJet Airlines Inc.
+648,-29.0,JetBlue Airways
+650,8.0,Southwest Airlines Co.
+651,18.0,Envoy Air
+652,11.0,United Air Lines Inc.
+653,3.0,American Airlines Inc.
+654,26.0,American Airlines Inc.
+655,-19.0,Delta Air Lines Inc.
+656,-2.0,American Airlines Inc.
+657,3.0,Endeavor Air Inc.
+658,14.0,US Airways Inc.
+659,2.0,American Airlines Inc.
+660,-13.0,Delta Air Lines Inc.
+661,9.0,United Air Lines Inc.
+662,32.0,ExpressJet Airlines Inc.
+663,6.0,United Air Lines Inc.
+664,8.0,ExpressJet Airlines Inc.
+665,-4.0,Endeavor Air Inc.
+666,0.0,United Air Lines Inc.
+667,7.0,Envoy Air
+668,32.0,United Air Lines Inc.
+669,94.0,ExpressJet Airlines Inc.
+670,12.0,JetBlue Airways
+671,25.0,Envoy Air
+672,-3.0,United Air Lines Inc.
+674,8.0,United Air Lines Inc.
+675,2.0,American Airlines Inc.
+676,-29.0,Delta Air Lines Inc.
+677,-7.0,Delta Air Lines Inc.
+678,52.0,American Airlines Inc.
+679,-19.0,American Airlines Inc.
+680,78.0,American Airlines Inc.
+681,2.0,AirTran Airways Corporation
+682,-9.0,ExpressJet Airlines Inc.
+683,1.0,Endeavor Air Inc.
+684,9.0,Virgin America
+685,-14.0,US Airways Inc.
+686,40.0,Envoy Air
+687,-5.0,Delta Air Lines Inc.
+688,3.0,United Air Lines Inc.
+690,-22.0,JetBlue Airways
+691,0.0,Delta Air Lines Inc.
+692,-1.0,Southwest Airlines Co.
+693,-9.0,ExpressJet Airlines Inc.
+694,-47.0,Delta Air Lines Inc.
+695,-15.0,JetBlue Airways
+696,-48.0,Delta Air Lines Inc.
+697,-11.0,United Air Lines Inc.
+698,10.0,Delta Air Lines Inc.
+699,-33.0,Delta Air Lines Inc.
+700,2.0,JetBlue Airways
+701,-12.0,Delta Air Lines Inc.
+702,40.0,ExpressJet Airlines Inc.
+703,19.0,Endeavor Air Inc.
+704,15.0,US Airways Inc.
+705,-5.0,Envoy Air
+706,-19.0,Delta Air Lines Inc.
+707,-15.0,United Air Lines Inc.
+708,-19.0,Delta Air Lines Inc.
+709,-4.0,United Air Lines Inc.
+710,-7.0,American Airlines Inc.
+711,18.0,ExpressJet Airlines Inc.
+712,-4.0,Delta Air Lines Inc.
+713,54.0,ExpressJet Airlines Inc.
+714,5.0,JetBlue Airways
+715,-13.0,ExpressJet Airlines Inc.
+716,21.0,Delta Air Lines Inc.
+717,43.0,American Airlines Inc.
+718,-18.0,Endeavor Air Inc.
+719,-4.0,United Air Lines Inc.
+720,81.0,Delta Air Lines Inc.
+722,40.0,ExpressJet Airlines Inc.
+723,25.0,American Airlines Inc.
+726,-2.0,American Airlines Inc.
+727,12.0,United Air Lines Inc.
+728,-10.0,JetBlue Airways
+730,16.0,Endeavor Air Inc.
+731,14.0,ExpressJet Airlines Inc.
+732,44.0,JetBlue Airways
+734,-11.0,Virgin America
+735,6.0,United Air Lines Inc.
+736,-6.0,Endeavor Air Inc.
+737,-26.0,Endeavor Air Inc.
+738,-22.0,JetBlue Airways
+739,11.0,United Air Lines Inc.
+740,25.0,Delta Air Lines Inc.
+741,3.0,United Air Lines Inc.
+742,75.0,ExpressJet Airlines Inc.
+743,-16.0,Endeavor Air Inc.
+744,-4.0,American Airlines Inc.
+745,-9.0,United Air Lines Inc.
+747,2.0,United Air Lines Inc.
+748,83.0,Envoy Air
+749,-4.0,Envoy Air
+751,-4.0,United Air Lines Inc.
+752,-10.0,American Airlines Inc.
+753,5.0,Endeavor Air Inc.
+755,50.0,Envoy Air
+756,47.0,Endeavor Air Inc.
+757,-3.0,JetBlue Airways
+758,-10.0,United Air Lines Inc.
+759,-7.0,AirTran Airways Corporation
+760,10.0,JetBlue Airways
+761,34.0,Endeavor Air Inc.
+762,91.0,JetBlue Airways
+763,-14.0,Delta Air Lines Inc.
+764,7.0,United Air Lines Inc.
+765,24.0,ExpressJet Airlines Inc.
+766,50.0,JetBlue Airways
+767,45.0,Southwest Airlines Co.
+768,-7.0,ExpressJet Airlines Inc.
+769,-35.0,American Airlines Inc.
+770,12.0,JetBlue Airways
+771,10.0,JetBlue Airways
+772,9.0,United Air Lines Inc.
+773,-17.0,United Air Lines Inc.
+774,-28.0,United Air Lines Inc.
+775,34.0,ExpressJet Airlines Inc.
+776,3.0,JetBlue Airways
+777,-29.0,Endeavor Air Inc.
+778,-28.0,United Air Lines Inc.
+779,45.0,Envoy Air
+780,-1.0,JetBlue Airways
+781,-2.0,JetBlue Airways
+782,4.0,Envoy Air
+783,-5.0,United Air Lines Inc.
+784,44.0,ExpressJet Airlines Inc.
+785,61.0,ExpressJet Airlines Inc.
+786,-6.0,JetBlue Airways
+787,5.0,Envoy Air
+788,17.0,Envoy Air
+789,25.0,ExpressJet Airlines Inc.
+790,5.0,Southwest Airlines Co.
+791,9.0,United Air Lines Inc.
+792,17.0,Envoy Air
+793,-6.0,JetBlue Airways
+794,-12.0,United Air Lines Inc.
+795,-32.0,Delta Air Lines Inc.
+796,-5.0,JetBlue Airways
+797,-14.0,United Air Lines Inc.
+798,-6.0,JetBlue Airways
+799,55.0,Envoy Air
+800,17.0,ExpressJet Airlines Inc.
+802,-10.0,ExpressJet Airlines Inc.
+804,-2.0,JetBlue Airways
+805,43.0,JetBlue Airways
+806,22.0,Envoy Air
+807,-24.0,American Airlines Inc.
+808,3.0,Envoy Air
+809,-9.0,JetBlue Airways
+810,28.0,United Air Lines Inc.
+811,-14.0,JetBlue Airways
+812,-14.0,JetBlue Airways
+813,2.0,JetBlue Airways
+814,-13.0,ExpressJet Airlines Inc.
+816,21.0,JetBlue Airways
+817,23.0,JetBlue Airways
+818,28.0,JetBlue Airways
+819,-26.0,JetBlue Airways
+820,73.0,JetBlue Airways
+822,8.0,ExpressJet Airlines Inc.
+823,49.0,JetBlue Airways
+824,-16.0,JetBlue Airways
+825,-7.0,JetBlue Airways
+826,49.0,ExpressJet Airlines Inc.
+827,23.0,JetBlue Airways
+828,35.0,JetBlue Airways
+829,9.0,JetBlue Airways
+831,69.0,ExpressJet Airlines Inc.
+832,73.0,JetBlue Airways
+833,33.0,JetBlue Airways
+835,-20.0,JetBlue Airways
+836,-24.0,JetBlue Airways
+837,-12.0,JetBlue Airways
+842,36.0,JetBlue Airways
+844,13.0,US Airways Inc.
+845,-10.0,United Air Lines Inc.
+846,-19.0,American Airlines Inc.
+847,12.0,United Air Lines Inc.
+848,-23.0,JetBlue Airways
+849,-16.0,JetBlue Airways
+850,-10.0,JetBlue Airways
+851,11.0,JetBlue Airways
+852,21.0,American Airlines Inc.
+853,0.0,JetBlue Airways
+854,-7.0,Delta Air Lines Inc.
+855,1.0,ExpressJet Airlines Inc.
+856,0.0,Delta Air Lines Inc.
+857,9.0,Delta Air Lines Inc.
+858,23.0,AirTran Airways Corporation
+859,-15.0,United Air Lines Inc.
+860,-52.0,United Air Lines Inc.
+861,-1.0,United Air Lines Inc.
+862,25.0,ExpressJet Airlines Inc.
+863,-27.0,ExpressJet Airlines Inc.
+864,4.0,Endeavor Air Inc.
+865,0.0,JetBlue Airways
+866,12.0,Southwest Airlines Co.
+867,-17.0,Envoy Air
+868,12.0,United Air Lines Inc.
+869,-13.0,US Airways Inc.
+870,-12.0,American Airlines Inc.
+871,-4.0,United Air Lines Inc.
+872,-44.0,United Air Lines Inc.
+873,1.0,Delta Air Lines Inc.
+874,5.0,Delta Air Lines Inc.
+875,-11.0,American Airlines Inc.
+876,15.0,JetBlue Airways
+877,19.0,ExpressJet Airlines Inc.
+878,10.0,Delta Air Lines Inc.
+879,31.0,Southwest Airlines Co.
+880,11.0,JetBlue Airways
+881,-7.0,JetBlue Airways
+882,44.0,United Air Lines Inc.
+883,20.0,US Airways Inc.
+884,-3.0,American Airlines Inc.
+885,-10.0,Envoy Air
+886,43.0,Envoy Air
+887,3.0,Envoy Air
+888,1.0,United Air Lines Inc.
+889,8.0,United Air Lines Inc.
+890,17.0,US Airways Inc.
+891,3.0,Delta Air Lines Inc.
+892,15.0,Southwest Airlines Co.
+893,11.0,ExpressJet Airlines Inc.
+894,17.0,ExpressJet Airlines Inc.
+895,-4.0,US Airways Inc.
+896,27.0,JetBlue Airways
+897,6.0,Delta Air Lines Inc.
+898,-13.0,Southwest Airlines Co.
+899,0.0,ExpressJet Airlines Inc.
+900,1.0,United Air Lines Inc.
+901,-4.0,American Airlines Inc.
+902,17.0,United Air Lines Inc.
+903,-9.0,United Air Lines Inc.
+904,23.0,ExpressJet Airlines Inc.
+905,-6.0,US Airways Inc.
+906,6.0,United Air Lines Inc.
+907,-17.0,JetBlue Airways
+908,-15.0,United Air Lines Inc.
+909,9.0,ExpressJet Airlines Inc.
+910,33.0,American Airlines Inc.
+911,-6.0,JetBlue Airways
+912,-5.0,JetBlue Airways
+913,13.0,US Airways Inc.
+914,-27.0,United Air Lines Inc.
+915,-31.0,United Air Lines Inc.
+916,15.0,US Airways Inc.
+917,-39.0,Delta Air Lines Inc.
+918,-12.0,United Air Lines Inc.
+919,-59.0,Delta Air Lines Inc.
+920,8.0,United Air Lines Inc.
+921,-4.0,American Airlines Inc.
+922,-13.0,JetBlue Airways
+923,-3.0,Delta Air Lines Inc.
+924,-4.0,Delta Air Lines Inc.
+925,-5.0,Delta Air Lines Inc.
+926,6.0,JetBlue Airways
+927,34.0,Envoy Air
+928,-3.0,US Airways Inc.
+929,-26.0,Virgin America
+930,37.0,ExpressJet Airlines Inc.
+931,1.0,American Airlines Inc.
+932,2.0,American Airlines Inc.
+933,18.0,Delta Air Lines Inc.
+934,46.0,United Air Lines Inc.
+935,26.0,JetBlue Airways
+936,-5.0,Delta Air Lines Inc.
+937,-12.0,United Air Lines Inc.
+938,29.0,American Airlines Inc.
+939,-23.0,Envoy Air
+940,-23.0,American Airlines Inc.
+941,-8.0,JetBlue Airways
+942,4.0,Delta Air Lines Inc.
+943,12.0,United Air Lines Inc.
+944,-9.0,American Airlines Inc.
+945,1.0,JetBlue Airways
+946,-25.0,United Air Lines Inc.
+947,-2.0,United Air Lines Inc.
+948,90.0,Envoy Air
+949,-41.0,Alaska Airlines Inc.
+950,-3.0,United Air Lines Inc.
+951,-36.0,Virgin America
+952,-4.0,United Air Lines Inc.
+953,9.0,United Air Lines Inc.
+954,6.0,AirTran Airways Corporation
+955,8.0,JetBlue Airways
+956,-45.0,Delta Air Lines Inc.
+957,0.0,JetBlue Airways
+958,5.0,American Airlines Inc.
+959,24.0,JetBlue Airways
+960,7.0,United Air Lines Inc.
+961,4.0,JetBlue Airways
+962,-30.0,JetBlue Airways
+963,20.0,Southwest Airlines Co.
+964,-9.0,United Air Lines Inc.
+965,6.0,JetBlue Airways
+966,-4.0,American Airlines Inc.
+967,-9.0,American Airlines Inc.
+968,2.0,United Air Lines Inc.
+969,10.0,Southwest Airlines Co.
+970,12.0,ExpressJet Airlines Inc.
+971,-14.0,United Air Lines Inc.
+972,1.0,Endeavor Air Inc.
+973,10.0,Delta Air Lines Inc.
+974,32.0,American Airlines Inc.
+975,-11.0,United Air Lines Inc.
+976,-3.0,JetBlue Airways
+977,28.0,United Air Lines Inc.
+978,-3.0,Endeavor Air Inc.
+979,-3.0,ExpressJet Airlines Inc.
+980,-6.0,ExpressJet Airlines Inc.
+981,13.0,United Air Lines Inc.
+982,75.0,ExpressJet Airlines Inc.
+983,-4.0,Delta Air Lines Inc.
+984,6.0,JetBlue Airways
+985,-18.0,JetBlue Airways
+986,-2.0,Delta Air Lines Inc.
+987,-29.0,Delta Air Lines Inc.
+988,19.0,US Airways Inc.
+989,-18.0,American Airlines Inc.
+990,-18.0,JetBlue Airways
+991,-14.0,Delta Air Lines Inc.
+992,56.0,American Airlines Inc.
+993,-4.0,Envoy Air
+994,-31.0,United Air Lines Inc.
+995,-15.0,American Airlines Inc.
+996,4.0,Delta Air Lines Inc.
+997,4.0,Delta Air Lines Inc.
+998,4.0,US Airways Inc.
+999,2.0,JetBlue Airways
+1000,-6.0,Delta Air Lines Inc.
+1001,4.0,Delta Air Lines Inc.
+1002,-5.0,Delta Air Lines Inc.
+1003,-11.0,Envoy Air
+1004,-19.0,Delta Air Lines Inc.
+1005,-2.0,Envoy Air
+1006,-12.0,Envoy Air
+1008,8.0,Endeavor Air Inc.
+1009,6.0,American Airlines Inc.
+1010,39.0,JetBlue Airways
+1011,1.0,JetBlue Airways
+1012,24.0,Delta Air Lines Inc.
+1013,12.0,JetBlue Airways
+1014,-11.0,JetBlue Airways
+1015,31.0,United Air Lines Inc.
+1016,-1.0,United Air Lines Inc.
+1017,23.0,AirTran Airways Corporation
+1018,-23.0,American Airlines Inc.
+1019,-16.0,Delta Air Lines Inc.
+1020,-13.0,American Airlines Inc.
+1021,-5.0,Delta Air Lines Inc.
+1022,48.0,ExpressJet Airlines Inc.
+1023,18.0,Frontier Airlines Inc.
+1024,-14.0,Delta Air Lines Inc.
+1025,-6.0,Envoy Air
+1026,-3.0,ExpressJet Airlines Inc.
+1027,-15.0,Endeavor Air Inc.
+1028,9.0,JetBlue Airways
+1029,-16.0,ExpressJet Airlines Inc.
+1030,1.0,American Airlines Inc.
+1031,-6.0,United Air Lines Inc.
+1033,21.0,ExpressJet Airlines Inc.
+1034,41.0,Southwest Airlines Co.
+1035,58.0,ExpressJet Airlines Inc.
+1036,38.0,Endeavor Air Inc.
+1037,13.0,American Airlines Inc.
+1038,-3.0,Envoy Air
+1039,21.0,United Air Lines Inc.
+1040,1.0,ExpressJet Airlines Inc.
+1041,70.0,Endeavor Air Inc.
+1042,-18.0,Envoy Air
+1043,5.0,Endeavor Air Inc.
+1044,12.0,JetBlue Airways
+1045,-11.0,United Air Lines Inc.
+1046,3.0,ExpressJet Airlines Inc.
+1047,15.0,Endeavor Air Inc.
+1048,-11.0,JetBlue Airways
+1049,-13.0,United Air Lines Inc.
+1050,65.0,ExpressJet Airlines Inc.
+1051,-36.0,United Air Lines Inc.
+1052,5.0,American Airlines Inc.
+1053,22.0,Southwest Airlines Co.
+1054,-15.0,Delta Air Lines Inc.
+1055,-57.0,Delta Air Lines Inc.
+1056,-29.0,Envoy Air
+1057,10.0,American Airlines Inc.
+1058,-5.0,Delta Air Lines Inc.
+1059,-10.0,Delta Air Lines Inc.
+1060,-25.0,Delta Air Lines Inc.
+1061,48.0,United Air Lines Inc.
+1062,27.0,ExpressJet Airlines Inc.
+1063,-12.0,United Air Lines Inc.
+1064,11.0,United Air Lines Inc.
+1065,-16.0,United Air Lines Inc.
+1066,-4.0,Delta Air Lines Inc.
+1067,2.0,United Air Lines Inc.
+1068,-29.0,United Air Lines Inc.
+1069,-7.0,Virgin America
+1070,-1.0,JetBlue Airways
+1072,21.0,JetBlue Airways
+1073,-5.0,Hawaiian Airlines Inc.
+1074,9.0,US Airways Inc.
+1075,-6.0,Delta Air Lines Inc.
+1076,16.0,JetBlue Airways
+1077,37.0,United Air Lines Inc.
+1078,8.0,Envoy Air
+1079,9.0,United Air Lines Inc.
+1080,-1.0,JetBlue Airways
+1081,57.0,ExpressJet Airlines Inc.
+1082,-5.0,American Airlines Inc.
+1083,8.0,American Airlines Inc.
+1085,10.0,JetBlue Airways
+1086,16.0,JetBlue Airways
+1087,-5.0,JetBlue Airways
+1088,-16.0,Virgin America
+1089,84.0,ExpressJet Airlines Inc.
+1090,62.0,JetBlue Airways
+1091,29.0,United Air Lines Inc.
+1092,99.0,US Airways Inc.
+1093,-4.0,Delta Air Lines Inc.
+1094,3.0,United Air Lines Inc.
+1095,15.0,United Air Lines Inc.
+1096,2.0,Southwest Airlines Co.
+1097,2.0,Delta Air Lines Inc.
+1098,34.0,United Air Lines Inc.
+1099,2.0,JetBlue Airways
+1100,-10.0,Southwest Airlines Co.
+1101,52.0,ExpressJet Airlines Inc.
+1102,23.0,JetBlue Airways
+1103,22.0,JetBlue Airways
+1104,97.0,ExpressJet Airlines Inc.
+1105,12.0,ExpressJet Airlines Inc.
+1106,-17.0,American Airlines Inc.
+1107,-1.0,Envoy Air
+1108,72.0,ExpressJet Airlines Inc.
+1109,-6.0,JetBlue Airways
+1110,-5.0,Endeavor Air Inc.
+1111,-20.0,ExpressJet Airlines Inc.
+1112,0.0,Southwest Airlines Co.
+1113,-5.0,Delta Air Lines Inc.
+1114,23.0,ExpressJet Airlines Inc.
+1115,-32.0,United Air Lines Inc.
+1116,-7.0,Delta Air Lines Inc.
+1117,9.0,JetBlue Airways
+1118,-18.0,US Airways Inc.
+1119,46.0,ExpressJet Airlines Inc.
+1120,85.0,Endeavor Air Inc.
+1121,-7.0,JetBlue Airways
+1122,-2.0,United Air Lines Inc.
+1123,14.0,US Airways Inc.
+1124,14.0,US Airways Inc.
+1125,-12.0,Envoy Air
+1126,5.0,US Airways Inc.
+1127,-17.0,Delta Air Lines Inc.
+1128,-10.0,AirTran Airways Corporation
+1129,14.0,US Airways Inc.
+1130,10.0,Delta Air Lines Inc.
+1131,0.0,American Airlines Inc.
+1132,12.0,ExpressJet Airlines Inc.
+1133,-11.0,JetBlue Airways
+1134,-6.0,Delta Air Lines Inc.
+1135,4.0,Envoy Air
+1136,-11.0,United Air Lines Inc.
+1137,3.0,Delta Air Lines Inc.
+1138,-30.0,Virgin America
+1139,-14.0,ExpressJet Airlines Inc.
+1140,0.0,United Air Lines Inc.
+1141,63.0,ExpressJet Airlines Inc.
+1142,2.0,JetBlue Airways
+1143,17.0,United Air Lines Inc.
+1144,19.0,ExpressJet Airlines Inc.
+1145,7.0,American Airlines Inc.
+1146,7.0,Envoy Air
+1147,4.0,JetBlue Airways
+1148,7.0,Delta Air Lines Inc.
+1149,-6.0,United Air Lines Inc.
+1150,-14.0,JetBlue Airways
+1151,73.0,Envoy Air
+1152,-23.0,Delta Air Lines Inc.
+1153,-44.0,United Air Lines Inc.
+1154,28.0,United Air Lines Inc.
+1155,-9.0,American Airlines Inc.
+1156,-10.0,Delta Air Lines Inc.
+1157,-25.0,US Airways Inc.
+1158,98.0,JetBlue Airways
+1159,2.0,Delta Air Lines Inc.
+1160,-8.0,Envoy Air
+1161,-26.0,United Air Lines Inc.
+1162,-14.0,US Airways Inc.
+1163,26.0,United Air Lines Inc.
+1164,-48.0,JetBlue Airways
+1165,15.0,United Air Lines Inc.
+1166,-30.0,United Air Lines Inc.
+1167,-14.0,Southwest Airlines Co.
+1168,5.0,American Airlines Inc.
+1169,-6.0,JetBlue Airways
+1170,-3.0,Delta Air Lines Inc.
+1171,3.0,Envoy Air
+1172,21.0,American Airlines Inc.
+1173,17.0,Delta Air Lines Inc.
+1174,-2.0,ExpressJet Airlines Inc.
+1175,-23.0,Delta Air Lines Inc.
+1176,54.0,United Air Lines Inc.
+1177,10.0,American Airlines Inc.
+1178,8.0,US Airways Inc.
+1179,46.0,ExpressJet Airlines Inc.
+1181,-32.0,United Air Lines Inc.
+1182,-4.0,Delta Air Lines Inc.
+1183,8.0,Southwest Airlines Co.
+1184,-6.0,JetBlue Airways
+1185,-23.0,United Air Lines Inc.
+1186,-23.0,United Air Lines Inc.
+1187,-14.0,Virgin America
+1188,24.0,JetBlue Airways
+1189,-9.0,Delta Air Lines Inc.
+1190,-9.0,American Airlines Inc.
+1191,3.0,Delta Air Lines Inc.
+1192,-32.0,United Air Lines Inc.
+1193,11.0,Delta Air Lines Inc.
+1194,-2.0,Envoy Air
+1195,-9.0,AirTran Airways Corporation
+1196,-7.0,Delta Air Lines Inc.
+1197,-2.0,Envoy Air
+1198,0.0,American Airlines Inc.
+1199,-11.0,JetBlue Airways
+1200,15.0,JetBlue Airways
+1201,-20.0,Delta Air Lines Inc.
+1202,-3.0,Envoy Air
+1203,-26.0,United Air Lines Inc.
+1204,-19.0,JetBlue Airways
+1205,1.0,Delta Air Lines Inc.
+1206,33.0,ExpressJet Airlines Inc.
+1207,-7.0,Delta Air Lines Inc.
+1208,12.0,US Airways Inc.
+1209,43.0,Southwest Airlines Co.
+1210,8.0,United Air Lines Inc.
+1211,-41.0,Virgin America
+1212,10.0,Envoy Air
+1213,1.0,American Airlines Inc.
+1214,37.0,ExpressJet Airlines Inc.
+1215,4.0,Envoy Air
+1216,-17.0,ExpressJet Airlines Inc.
+1217,5.0,United Air Lines Inc.
+1218,46.0,ExpressJet Airlines Inc.
+1219,11.0,United Air Lines Inc.
+1220,6.0,American Airlines Inc.
+1221,-11.0,JetBlue Airways
+1222,-16.0,Envoy Air
+1223,-13.0,JetBlue Airways
+1224,-8.0,United Air Lines Inc.
+1225,15.0,ExpressJet Airlines Inc.
+1226,102.0,ExpressJet Airlines Inc.
+1227,6.0,ExpressJet Airlines Inc.
+1228,31.0,ExpressJet Airlines Inc.
+1229,-15.0,ExpressJet Airlines Inc.
+1230,-7.0,Envoy Air
+1231,6.0,JetBlue Airways
+1232,4.0,United Air Lines Inc.
+1233,0.0,Delta Air Lines Inc.
+1234,-2.0,Southwest Airlines Co.
+1235,47.0,Envoy Air
+1236,47.0,ExpressJet Airlines Inc.
+1237,8.0,Southwest Airlines Co.
+1238,-22.0,American Airlines Inc.
+1239,16.0,American Airlines Inc.
+1240,-55.0,Delta Air Lines Inc.
+1241,25.0,ExpressJet Airlines Inc.
+1243,-42.0,Delta Air Lines Inc.
+1244,5.0,American Airlines Inc.
+1245,-35.0,JetBlue Airways
+1246,-1.0,American Airlines Inc.
+1247,-11.0,United Air Lines Inc.
+1248,-3.0,Endeavor Air Inc.
+1249,8.0,Delta Air Lines Inc.
+1250,-1.0,US Airways Inc.
+1251,5.0,JetBlue Airways
+1252,8.0,Delta Air Lines Inc.
+1253,24.0,Southwest Airlines Co.
+1254,-15.0,ExpressJet Airlines Inc.
+1255,2.0,Delta Air Lines Inc.
+1256,6.0,United Air Lines Inc.
+1257,2.0,Southwest Airlines Co.
+1258,-2.0,Envoy Air
+1259,-4.0,United Air Lines Inc.
+1260,-1.0,United Air Lines Inc.
+1261,7.0,JetBlue Airways
+1262,-6.0,JetBlue Airways
+1263,2.0,American Airlines Inc.
+1264,-2.0,AirTran Airways Corporation
+1265,13.0,US Airways Inc.
+1266,4.0,ExpressJet Airlines Inc.
+1267,21.0,JetBlue Airways
+1268,-2.0,United Air Lines Inc.
+1269,18.0,Southwest Airlines Co.
+1270,8.0,Envoy Air
+1271,9.0,JetBlue Airways
+1272,-13.0,Delta Air Lines Inc.
+1273,-5.0,Virgin America
+1274,-20.0,ExpressJet Airlines Inc.
+1275,-20.0,JetBlue Airways
+1276,83.0,ExpressJet Airlines Inc.
+1277,-6.0,JetBlue Airways
+1279,-14.0,ExpressJet Airlines Inc.
+1280,45.0,JetBlue Airways
+1281,-2.0,ExpressJet Airlines Inc.
+1282,5.0,JetBlue Airways
+1283,35.0,ExpressJet Airlines Inc.
+1284,3.0,JetBlue Airways
+1285,12.0,JetBlue Airways
+1286,9.0,United Air Lines Inc.
+1287,96.0,ExpressJet Airlines Inc.
+1288,44.0,ExpressJet Airlines Inc.
+1289,-17.0,American Airlines Inc.
+1290,107.0,Delta Air Lines Inc.
+1291,-15.0,American Airlines Inc.
+1292,16.0,Delta Air Lines Inc.
+1293,-4.0,United Air Lines Inc.
+1294,47.0,American Airlines Inc.
+1295,3.0,Envoy Air
+1296,-13.0,US Airways Inc.
+1297,-1.0,Southwest Airlines Co.
+1298,38.0,ExpressJet Airlines Inc.
+1299,-34.0,JetBlue Airways
+1300,25.0,JetBlue Airways
+1301,8.0,United Air Lines Inc.
+1302,-6.0,ExpressJet Airlines Inc.
+1303,6.0,JetBlue Airways
+1304,30.0,Envoy Air
+1305,7.0,ExpressJet Airlines Inc.
+1306,-10.0,Delta Air Lines Inc.
+1307,-6.0,AirTran Airways Corporation
+1308,-14.0,Delta Air Lines Inc.
+1309,-30.0,Envoy Air
+1311,-27.0,United Air Lines Inc.
+1312,4.0,Envoy Air
+1313,60.0,ExpressJet Airlines Inc.
+1314,39.0,ExpressJet Airlines Inc.
+1315,19.0,United Air Lines Inc.
+1316,20.0,United Air Lines Inc.
+1317,18.0,Delta Air Lines Inc.
+1318,14.0,Delta Air Lines Inc.
+1319,-8.0,ExpressJet Airlines Inc.
+1320,-26.0,Delta Air Lines Inc.
+1321,51.0,Southwest Airlines Co.
+1322,1.0,United Air Lines Inc.
+1323,6.0,United Air Lines Inc.
+1324,0.0,JetBlue Airways
+1325,85.0,ExpressJet Airlines Inc.
+1326,11.0,JetBlue Airways
+1327,8.0,Delta Air Lines Inc.
+1328,-4.0,Delta Air Lines Inc.
+1329,-1.0,Delta Air Lines Inc.
+1330,-8.0,US Airways Inc.
+1331,-21.0,JetBlue Airways
+1332,45.0,Endeavor Air Inc.
+1333,-8.0,Envoy Air
+1334,-10.0,Endeavor Air Inc.
+1335,-6.0,JetBlue Airways
+1336,32.0,Delta Air Lines Inc.
+1338,3.0,JetBlue Airways
+1339,15.0,JetBlue Airways
+1340,4.0,United Air Lines Inc.
+1341,34.0,Delta Air Lines Inc.
+1342,28.0,ExpressJet Airlines Inc.
+1343,1.0,American Airlines Inc.
+1344,23.0,JetBlue Airways
+1345,14.0,Delta Air Lines Inc.
+1346,-13.0,US Airways Inc.
+1347,-17.0,JetBlue Airways
+1348,14.0,United Air Lines Inc.
+1349,1.0,Endeavor Air Inc.
+1350,2.0,American Airlines Inc.
+1351,33.0,Envoy Air
+1352,-5.0,US Airways Inc.
+1353,40.0,Delta Air Lines Inc.
+1354,-2.0,Envoy Air
+1355,-26.0,Delta Air Lines Inc.
+1356,-2.0,United Air Lines Inc.
+1357,-5.0,US Airways Inc.
+1358,32.0,American Airlines Inc.
+1359,14.0,United Air Lines Inc.
+1360,-1.0,American Airlines Inc.
+1361,-1.0,JetBlue Airways
+1362,-13.0,Envoy Air
+1363,6.0,Endeavor Air Inc.
+1364,3.0,JetBlue Airways
+1365,11.0,United Air Lines Inc.
+1366,41.0,ExpressJet Airlines Inc.
+1367,27.0,ExpressJet Airlines Inc.
+1368,13.0,United Air Lines Inc.
+1369,3.0,Southwest Airlines Co.
+1370,-12.0,American Airlines Inc.
+1371,32.0,American Airlines Inc.
+1372,65.0,Envoy Air
+1373,5.0,United Air Lines Inc.
+1374,4.0,United Air Lines Inc.
+1375,-9.0,United Air Lines Inc.
+1376,3.0,Endeavor Air Inc.
+1377,20.0,Delta Air Lines Inc.
+1378,13.0,Endeavor Air Inc.
+1379,-3.0,Envoy Air
+1380,-23.0,United Air Lines Inc.
+1381,0.0,JetBlue Airways
+1382,-8.0,US Airways Inc.
+1383,14.0,Endeavor Air Inc.
+1384,26.0,Envoy Air
+1385,46.0,Envoy Air
+1386,119.0,ExpressJet Airlines Inc.
+1387,-2.0,American Airlines Inc.
+1388,9.0,Envoy Air
+1389,-37.0,United Air Lines Inc.
+1390,-11.0,American Airlines Inc.
+1391,59.0,JetBlue Airways
+1392,2.0,Delta Air Lines Inc.
+1393,41.0,Envoy Air
+1394,43.0,Envoy Air
+1395,9.0,United Air Lines Inc.
+1396,17.0,Endeavor Air Inc.
+1397,38.0,Envoy Air
+1398,-1.0,Delta Air Lines Inc.
+1399,8.0,JetBlue Airways
+1400,6.0,Delta Air Lines Inc.
+1401,17.0,Endeavor Air Inc.
+1402,30.0,American Airlines Inc.
+1403,15.0,Delta Air Lines Inc.
+1404,0.0,Endeavor Air Inc.
+1405,9.0,United Air Lines Inc.
+1406,35.0,United Air Lines Inc.
+1408,25.0,JetBlue Airways
+1409,45.0,JetBlue Airways
+1410,-8.0,Delta Air Lines Inc.
+1411,1.0,Delta Air Lines Inc.
+1412,8.0,Delta Air Lines Inc.
+1413,2.0,ExpressJet Airlines Inc.
+1414,-29.0,Delta Air Lines Inc.
+1415,-6.0,American Airlines Inc.
+1416,109.0,ExpressJet Airlines Inc.
+1417,24.0,JetBlue Airways
+1418,-4.0,Delta Air Lines Inc.
+1419,0.0,United Air Lines Inc.
+1420,20.0,American Airlines Inc.
+1421,13.0,JetBlue Airways
+1422,13.0,United Air Lines Inc.
+1423,26.0,AirTran Airways Corporation
+1424,63.0,Envoy Air
+1425,3.0,United Air Lines Inc.
+1426,69.0,ExpressJet Airlines Inc.
+1427,12.0,Endeavor Air Inc.
+1428,-6.0,United Air Lines Inc.
+1429,29.0,Endeavor Air Inc.
+1430,35.0,ExpressJet Airlines Inc.
+1431,-29.0,Delta Air Lines Inc.
+1432,8.0,Delta Air Lines Inc.
+1433,81.0,ExpressJet Airlines Inc.
+1434,27.0,Envoy Air
+1435,20.0,JetBlue Airways
+1436,4.0,Delta Air Lines Inc.
+1437,10.0,Delta Air Lines Inc.
+1438,23.0,United Air Lines Inc.
+1439,1.0,Endeavor Air Inc.
+1441,67.0,ExpressJet Airlines Inc.
+1442,15.0,American Airlines Inc.
+1443,14.0,JetBlue Airways
+1444,16.0,ExpressJet Airlines Inc.
+1445,16.0,Endeavor Air Inc.
+1446,9.0,JetBlue Airways
+1447,18.0,Envoy Air
+1448,15.0,Endeavor Air Inc.
+1449,-1.0,Southwest Airlines Co.
+1450,20.0,American Airlines Inc.
+1451,48.0,United Air Lines Inc.
+1452,9.0,United Air Lines Inc.
+1453,-5.0,Endeavor Air Inc.
+1454,14.0,Delta Air Lines Inc.
+1455,20.0,United Air Lines Inc.
+1456,102.0,ExpressJet Airlines Inc.
+1457,-28.0,Delta Air Lines Inc.
+1458,-25.0,JetBlue Airways
+1459,6.0,Delta Air Lines Inc.
+1460,-5.0,United Air Lines Inc.
+1461,23.0,Delta Air Lines Inc.
+1462,-30.0,Virgin America
+1463,-18.0,Delta Air Lines Inc.
+1464,-39.0,United Air Lines Inc.
+1465,3.0,Southwest Airlines Co.
+1466,-10.0,US Airways Inc.
+1467,47.0,ExpressJet Airlines Inc.
+1468,-3.0,JetBlue Airways
+1469,1.0,Delta Air Lines Inc.
+1470,22.0,American Airlines Inc.
+1471,96.0,ExpressJet Airlines Inc.
+1472,4.0,Envoy Air
+1473,10.0,United Air Lines Inc.
+1474,24.0,United Air Lines Inc.
+1475,-10.0,American Airlines Inc.
+1476,-2.0,JetBlue Airways
+1477,9.0,United Air Lines Inc.
+1478,4.0,JetBlue Airways
+1479,-23.0,Delta Air Lines Inc.
+1480,-10.0,Delta Air Lines Inc.
+1481,-35.0,Virgin America
+1482,-12.0,Delta Air Lines Inc.
+1483,0.0,Endeavor Air Inc.
+1484,7.0,Southwest Airlines Co.
+1485,36.0,American Airlines Inc.
+1486,25.0,JetBlue Airways
+1487,18.0,Envoy Air
+1488,22.0,JetBlue Airways
+1489,5.0,United Air Lines Inc.
+1490,70.0,ExpressJet Airlines Inc.
+1491,16.0,American Airlines Inc.
+1492,-6.0,US Airways Inc.
+1493,5.0,American Airlines Inc.
+1494,7.0,United Air Lines Inc.
+1496,-12.0,United Air Lines Inc.
+1497,7.0,United Air Lines Inc.
+1498,12.0,ExpressJet Airlines Inc.
+1499,82.0,Southwest Airlines Co.
+1500,-18.0,JetBlue Airways
+1501,36.0,Envoy Air
+1502,38.0,American Airlines Inc.
+1503,28.0,American Airlines Inc.
+1504,6.0,American Airlines Inc.
+1505,2.0,Envoy Air
+1506,0.0,AirTran Airways Corporation
+1507,7.0,Delta Air Lines Inc.
+1508,21.0,Delta Air Lines Inc.
+1509,-20.0,Delta Air Lines Inc.
+1510,11.0,Delta Air Lines Inc.
+1511,-18.0,American Airlines Inc.
+1512,2.0,United Air Lines Inc.
+1513,-6.0,US Airways Inc.
+1514,82.0,ExpressJet Airlines Inc.
+1516,-1.0,Frontier Airlines Inc.
+1517,6.0,United Air Lines Inc.
+1518,-3.0,Delta Air Lines Inc.
+1519,19.0,United Air Lines Inc.
+1520,-21.0,United Air Lines Inc.
+1521,-2.0,JetBlue Airways
+1522,69.0,Envoy Air
+1523,4.0,American Airlines Inc.
+1524,-28.0,United Air Lines Inc.
+1525,14.0,ExpressJet Airlines Inc.
+1526,-2.0,American Airlines Inc.
+1527,-44.0,Delta Air Lines Inc.
+1528,-44.0,Delta Air Lines Inc.
+1529,15.0,ExpressJet Airlines Inc.
+1530,15.0,Envoy Air
+1531,5.0,United Air Lines Inc.
+1532,28.0,American Airlines Inc.
+1533,-5.0,JetBlue Airways
+1534,-15.0,Delta Air Lines Inc.
+1535,1.0,Delta Air Lines Inc.
+1536,71.0,ExpressJet Airlines Inc.
+1537,-32.0,United Air Lines Inc.
+1538,22.0,Envoy Air
+1539,45.0,United Air Lines Inc.
+1540,54.0,ExpressJet Airlines Inc.
+1541,-13.0,JetBlue Airways
+1542,-5.0,JetBlue Airways
+1543,5.0,Southwest Airlines Co.
+1544,9.0,Southwest Airlines Co.
+1546,38.0,JetBlue Airways
+1547,80.0,ExpressJet Airlines Inc.
+1549,-9.0,American Airlines Inc.
+1550,43.0,American Airlines Inc.
+1551,-13.0,JetBlue Airways
+1552,69.0,ExpressJet Airlines Inc.
+1553,-10.0,JetBlue Airways
+1554,12.0,Delta Air Lines Inc.
+1555,49.0,Endeavor Air Inc.
+1556,107.0,US Airways Inc.
+1557,-22.0,Delta Air Lines Inc.
+1558,-2.0,United Air Lines Inc.
+1559,99.0,ExpressJet Airlines Inc.
+1560,1.0,Envoy Air
+1561,10.0,Envoy Air
+1562,120.0,ExpressJet Airlines Inc.
+1563,3.0,United Air Lines Inc.
+1564,28.0,JetBlue Airways
+1565,12.0,United Air Lines Inc.
+1566,85.0,ExpressJet Airlines Inc.
+1567,2.0,American Airlines Inc.
+1568,35.0,JetBlue Airways
+1569,106.0,Southwest Airlines Co.
+1570,-7.0,Southwest Airlines Co.
+1571,-41.0,JetBlue Airways
+1572,47.0,United Air Lines Inc.
+1573,1.0,Alaska Airlines Inc.
+1574,81.0,ExpressJet Airlines Inc.
+1575,-15.0,Envoy Air
+1576,-30.0,Endeavor Air Inc.
+1577,-51.0,Delta Air Lines Inc.
+1578,19.0,United Air Lines Inc.
+1579,3.0,US Airways Inc.
+1580,-26.0,Delta Air Lines Inc.
+1581,14.0,Delta Air Lines Inc.
+1582,9.0,United Air Lines Inc.
+1583,77.0,ExpressJet Airlines Inc.
+1584,-15.0,United Air Lines Inc.
+1585,13.0,Delta Air Lines Inc.
+1586,-21.0,JetBlue Airways
+1587,8.0,United Air Lines Inc.
+1588,-24.0,Envoy Air
+1589,55.0,JetBlue Airways
+1590,-23.0,Delta Air Lines Inc.
+1591,11.0,United Air Lines Inc.
+1592,44.0,US Airways Inc.
+1593,-24.0,JetBlue Airways
+1594,-25.0,Delta Air Lines Inc.
+1595,-20.0,American Airlines Inc.
+1596,2.0,Southwest Airlines Co.
+1597,-31.0,JetBlue Airways
+1598,-31.0,Delta Air Lines Inc.
+1599,19.0,United Air Lines Inc.
+1600,-10.0,Envoy Air
+1601,10.0,United Air Lines Inc.
+1605,18.0,American Airlines Inc.
+1607,-12.0,American Airlines Inc.
+1608,-11.0,Virgin America
+1609,10.0,Envoy Air
+1610,-10.0,AirTran Airways Corporation
+1611,-4.0,American Airlines Inc.
+1612,-17.0,Delta Air Lines Inc.
+1613,-19.0,US Airways Inc.
+1614,8.0,ExpressJet Airlines Inc.
+1615,-16.0,Delta Air Lines Inc.
+1616,12.0,Delta Air Lines Inc.
+1617,-14.0,Southwest Airlines Co.
+1618,-7.0,JetBlue Airways
+1619,-1.0,JetBlue Airways
+1620,-9.0,US Airways Inc.
+1621,28.0,JetBlue Airways
+1622,-18.0,Delta Air Lines Inc.
+1623,-24.0,Delta Air Lines Inc.
+1624,7.0,United Air Lines Inc.
+1625,13.0,American Airlines Inc.
+1626,-11.0,Delta Air Lines Inc.
+1627,7.0,ExpressJet Airlines Inc.
+1628,-9.0,American Airlines Inc.
+1629,32.0,American Airlines Inc.
+1630,45.0,Delta Air Lines Inc.
+1631,-25.0,United Air Lines Inc.
+1633,-26.0,Delta Air Lines Inc.
+1634,-14.0,JetBlue Airways
+1635,-18.0,JetBlue Airways
+1636,25.0,United Air Lines Inc.
+1637,32.0,Endeavor Air Inc.
+1638,-2.0,United Air Lines Inc.
+1639,-5.0,Delta Air Lines Inc.
+1640,-4.0,Delta Air Lines Inc.
+1641,0.0,Envoy Air
+1642,28.0,ExpressJet Airlines Inc.
+1643,40.0,Envoy Air
+1644,-4.0,Delta Air Lines Inc.
+1645,-14.0,Delta Air Lines Inc.
+1646,-9.0,ExpressJet Airlines Inc.
+1647,-20.0,American Airlines Inc.
+1648,13.0,Delta Air Lines Inc.
+1649,-11.0,JetBlue Airways
+1651,-32.0,Delta Air Lines Inc.
+1652,-7.0,Delta Air Lines Inc.
+1653,102.0,JetBlue Airways
+1654,-18.0,Envoy Air
+1655,116.0,Delta Air Lines Inc.
+1656,35.0,ExpressJet Airlines Inc.
+1657,0.0,Delta Air Lines Inc.
+1658,7.0,United Air Lines Inc.
+1659,2.0,American Airlines Inc.
+1660,64.0,ExpressJet Airlines Inc.
+1661,31.0,ExpressJet Airlines Inc.
+1662,20.0,Endeavor Air Inc.
+1663,-25.0,United Air Lines Inc.
+1664,12.0,United Air Lines Inc.
+1665,68.0,ExpressJet Airlines Inc.
+1666,19.0,Endeavor Air Inc.
+1667,-16.0,Endeavor Air Inc.
+1668,2.0,Endeavor Air Inc.
+1669,12.0,JetBlue Airways
+1670,-5.0,United Air Lines Inc.
+1671,34.0,JetBlue Airways
+1672,25.0,Endeavor Air Inc.
+1673,28.0,American Airlines Inc.
+1674,16.0,Endeavor Air Inc.
+1675,6.0,Delta Air Lines Inc.
+1676,-22.0,Virgin America
+1677,-18.0,Delta Air Lines Inc.
+1678,84.0,ExpressJet Airlines Inc.
+1679,-33.0,JetBlue Airways
+1680,24.0,United Air Lines Inc.
+1681,-23.0,Endeavor Air Inc.
+1682,-1.0,American Airlines Inc.
+1683,2.0,United Air Lines Inc.
+1685,20.0,Delta Air Lines Inc.
+1686,21.0,ExpressJet Airlines Inc.
+1687,16.0,Southwest Airlines Co.
+1688,11.0,Envoy Air
+1689,-11.0,United Air Lines Inc.
+1690,2.0,American Airlines Inc.
+1691,8.0,AirTran Airways Corporation
+1692,-36.0,JetBlue Airways
+1693,7.0,JetBlue Airways
+1694,6.0,Envoy Air
+1695,-8.0,United Air Lines Inc.
+1696,15.0,Endeavor Air Inc.
+1697,15.0,JetBlue Airways
+1698,-5.0,Delta Air Lines Inc.
+1699,29.0,ExpressJet Airlines Inc.
+1700,-18.0,Delta Air Lines Inc.
+1701,32.0,JetBlue Airways
+1702,17.0,United Air Lines Inc.
+1703,11.0,JetBlue Airways
+1704,88.0,Endeavor Air Inc.
+1705,36.0,Envoy Air
+1706,-20.0,United Air Lines Inc.
+1707,-36.0,Endeavor Air Inc.
+1708,-8.0,United Air Lines Inc.
+1709,-5.0,ExpressJet Airlines Inc.
+1710,-5.0,United Air Lines Inc.
+1711,45.0,ExpressJet Airlines Inc.
+1712,-15.0,American Airlines Inc.
+1713,4.0,JetBlue Airways
+1716,31.0,ExpressJet Airlines Inc.
+1717,82.0,ExpressJet Airlines Inc.
+1718,-30.0,JetBlue Airways
+1719,-11.0,Envoy Air
+1720,0.0,Envoy Air
+1721,39.0,ExpressJet Airlines Inc.
+1722,83.0,ExpressJet Airlines Inc.
+1723,-25.0,United Air Lines Inc.
+1724,20.0,JetBlue Airways
+1725,6.0,JetBlue Airways
+1726,-6.0,Southwest Airlines Co.
+1727,-2.0,United Air Lines Inc.
+1728,5.0,Delta Air Lines Inc.
+1729,8.0,Envoy Air
+1730,5.0,Envoy Air
+1731,27.0,United Air Lines Inc.
+1732,7.0,United Air Lines Inc.
+1733,14.0,United Air Lines Inc.
+1734,59.0,ExpressJet Airlines Inc.
+1735,7.0,United Air Lines Inc.
+1736,-31.0,Delta Air Lines Inc.
+1737,29.0,ExpressJet Airlines Inc.
+1739,8.0,JetBlue Airways
+1740,7.0,Envoy Air
+1741,58.0,Endeavor Air Inc.
+1742,-9.0,JetBlue Airways
+1743,4.0,ExpressJet Airlines Inc.
+1744,-4.0,United Air Lines Inc.
+1745,9.0,ExpressJet Airlines Inc.
+1746,10.0,JetBlue Airways
+1747,25.0,JetBlue Airways
+1748,-17.0,JetBlue Airways
+1750,-14.0,American Airlines Inc.
+1751,-16.0,JetBlue Airways
+1752,-10.0,JetBlue Airways
+1753,-5.0,JetBlue Airways
+1754,32.0,JetBlue Airways
+1757,82.0,ExpressJet Airlines Inc.
+1758,89.0,Endeavor Air Inc.
+1759,-4.0,JetBlue Airways
+1760,21.0,JetBlue Airways
+1761,-9.0,Delta Air Lines Inc.
+1763,-15.0,JetBlue Airways
+1764,-17.0,JetBlue Airways
+1765,-15.0,JetBlue Airways
+1766,53.0,ExpressJet Airlines Inc.
+1767,56.0,ExpressJet Airlines Inc.
+1768,110.0,Delta Air Lines Inc.
+1769,11.0,JetBlue Airways
+1770,58.0,ExpressJet Airlines Inc.
+1771,100.0,Envoy Air
+1772,111.0,ExpressJet Airlines Inc.
+1773,101.0,JetBlue Airways
+1774,61.0,JetBlue Airways
+1775,-18.0,JetBlue Airways
+1776,-24.0,JetBlue Airways
+1785,22.0,JetBlue Airways
+1788,0.0,US Airways Inc.
+1789,10.0,United Air Lines Inc.
+1790,20.0,United Air Lines Inc.
+1791,-15.0,American Airlines Inc.
+1792,-13.0,JetBlue Airways
+1793,-3.0,JetBlue Airways
+1794,-2.0,Delta Air Lines Inc.
+1795,6.0,ExpressJet Airlines Inc.
+1796,-3.0,JetBlue Airways
+1797,-6.0,Envoy Air
+1798,-8.0,Envoy Air
+1799,19.0,ExpressJet Airlines Inc.
+1800,13.0,JetBlue Airways
+1801,2.0,JetBlue Airways
+1802,15.0,Delta Air Lines Inc.
+1803,-9.0,Envoy Air
+1804,1.0,US Airways Inc.
+1805,-1.0,ExpressJet Airlines Inc.
+1806,-5.0,JetBlue Airways
+1807,13.0,JetBlue Airways
+1808,0.0,Delta Air Lines Inc.
+1809,2.0,ExpressJet Airlines Inc.
+1810,28.0,AirTran Airways Corporation
+1811,-9.0,American Airlines Inc.
+1812,6.0,United Air Lines Inc.
+1813,0.0,Southwest Airlines Co.
+1814,4.0,Southwest Airlines Co.
+1815,-33.0,United Air Lines Inc.
+1816,7.0,American Airlines Inc.
+1817,0.0,American Airlines Inc.
+1818,32.0,JetBlue Airways
+1819,-22.0,ExpressJet Airlines Inc.
+1820,11.0,Delta Air Lines Inc.
+1821,22.0,Delta Air Lines Inc.
+1822,1.0,Envoy Air
+1823,-1.0,US Airways Inc.
+1824,12.0,Delta Air Lines Inc.
+1825,-3.0,United Air Lines Inc.
+1826,-16.0,JetBlue Airways
+1827,-12.0,American Airlines Inc.
+1828,3.0,United Air Lines Inc.
+1829,44.0,American Airlines Inc.
+1830,29.0,JetBlue Airways
+1831,15.0,Delta Air Lines Inc.
+1832,2.0,US Airways Inc.
+1833,-34.0,United Air Lines Inc.
+1834,-31.0,US Airways Inc.
+1835,20.0,ExpressJet Airlines Inc.
+1836,13.0,United Air Lines Inc.
+1837,12.0,US Airways Inc.
+1838,13.0,ExpressJet Airlines Inc.
+1839,-24.0,United Air Lines Inc.
+1840,13.0,Envoy Air
+1841,-2.0,ExpressJet Airlines Inc.
+1842,10.0,US Airways Inc.
+1843,12.0,Southwest Airlines Co.
+1844,40.0,United Air Lines Inc.
+1845,20.0,American Airlines Inc.
+1846,-4.0,United Air Lines Inc.
+1847,33.0,ExpressJet Airlines Inc.
+1848,13.0,United Air Lines Inc.
+1849,19.0,ExpressJet Airlines Inc.
+1850,-16.0,JetBlue Airways
+1851,-23.0,ExpressJet Airlines Inc.
+1852,17.0,ExpressJet Airlines Inc.
+1853,-10.0,JetBlue Airways
+1854,23.0,US Airways Inc.
+1855,13.0,JetBlue Airways
+1856,-31.0,United Air Lines Inc.
+1857,-38.0,Delta Air Lines Inc.
+1858,-27.0,Delta Air Lines Inc.
+1859,13.0,Delta Air Lines Inc.
+1860,-43.0,United Air Lines Inc.
+1861,3.0,Delta Air Lines Inc.
+1862,4.0,Delta Air Lines Inc.
+1863,6.0,US Airways Inc.
+1864,-35.0,Delta Air Lines Inc.
+1865,22.0,ExpressJet Airlines Inc.
+1866,12.0,American Airlines Inc.
+1867,-2.0,JetBlue Airways
+1868,-10.0,JetBlue Airways
+1869,-10.0,Delta Air Lines Inc.
+1870,-47.0,Virgin America
+1871,15.0,United Air Lines Inc.
+1872,4.0,ExpressJet Airlines Inc.
+1873,-37.0,JetBlue Airways
+1874,-48.0,United Air Lines Inc.
+1875,-9.0,United Air Lines Inc.
+1876,34.0,Envoy Air
+1877,33.0,JetBlue Airways
+1878,14.0,United Air Lines Inc.
+1879,11.0,Southwest Airlines Co.
+1880,-32.0,United Air Lines Inc.
+1881,12.0,United Air Lines Inc.
+1882,-2.0,JetBlue Airways
+1883,23.0,United Air Lines Inc.
+1884,-3.0,American Airlines Inc.
+1885,8.0,American Airlines Inc.
+1886,8.0,AirTran Airways Corporation
+1887,92.0,ExpressJet Airlines Inc.
+1888,-11.0,United Air Lines Inc.
+1889,-11.0,Delta Air Lines Inc.
+1890,10.0,United Air Lines Inc.
+1891,24.0,JetBlue Airways
+1892,20.0,Envoy Air
+1893,-19.0,United Air Lines Inc.
+1894,-18.0,Alaska Airlines Inc.
+1895,20.0,JetBlue Airways
+1896,-5.0,American Airlines Inc.
+1897,-37.0,Virgin America
+1898,7.0,JetBlue Airways
+1899,-4.0,Delta Air Lines Inc.
+1900,-46.0,American Airlines Inc.
+1901,7.0,United Air Lines Inc.
+1902,3.0,JetBlue Airways
+1903,-23.0,Delta Air Lines Inc.
+1904,25.0,United Air Lines Inc.
+1905,3.0,ExpressJet Airlines Inc.
+1906,-10.0,United Air Lines Inc.
+1907,-36.0,American Airlines Inc.
+1908,-35.0,JetBlue Airways
+1909,20.0,JetBlue Airways
+1910,-17.0,United Air Lines Inc.
+1911,6.0,Endeavor Air Inc.
+1912,-13.0,Endeavor Air Inc.
+1913,-25.0,Delta Air Lines Inc.
+1914,-8.0,Delta Air Lines Inc.
+1915,-13.0,ExpressJet Airlines Inc.
+1916,3.0,JetBlue Airways
+1917,2.0,United Air Lines Inc.
+1918,-15.0,Delta Air Lines Inc.
+1919,-22.0,Southwest Airlines Co.
+1920,-10.0,United Air Lines Inc.
+1921,-6.0,United Air Lines Inc.
+1922,-10.0,Endeavor Air Inc.
+1923,-4.0,JetBlue Airways
+1924,15.0,Delta Air Lines Inc.
+1925,1.0,Southwest Airlines Co.
+1926,25.0,US Airways Inc.
+1927,13.0,ExpressJet Airlines Inc.
+1928,-15.0,Envoy Air
+1929,0.0,United Air Lines Inc.
+1930,33.0,JetBlue Airways
+1931,13.0,AirTran Airways Corporation
+1932,-15.0,JetBlue Airways
+1933,-18.0,American Airlines Inc.
+1934,-14.0,American Airlines Inc.
+1935,10.0,Delta Air Lines Inc.
+1936,-3.0,Delta Air Lines Inc.
+1937,5.0,JetBlue Airways
+1938,10.0,Delta Air Lines Inc.
+1939,11.0,Delta Air Lines Inc.
+1940,-8.0,Delta Air Lines Inc.
+1941,1.0,Envoy Air
+1942,6.0,US Airways Inc.
+1943,-9.0,Endeavor Air Inc.
+1944,-10.0,Delta Air Lines Inc.
+1945,3.0,ExpressJet Airlines Inc.
+1946,15.0,Envoy Air
+1947,-11.0,Envoy Air
+1948,11.0,US Airways Inc.
+1949,43.0,ExpressJet Airlines Inc.
+1950,17.0,Endeavor Air Inc.
+1951,8.0,ExpressJet Airlines Inc.
+1952,-25.0,United Air Lines Inc.
+1953,-5.0,JetBlue Airways
+1954,15.0,Delta Air Lines Inc.
+1955,8.0,United Air Lines Inc.
+1956,-24.0,Delta Air Lines Inc.
+1957,2.0,United Air Lines Inc.
+1958,29.0,ExpressJet Airlines Inc.
+1959,7.0,ExpressJet Airlines Inc.
+1960,-1.0,ExpressJet Airlines Inc.
+1961,11.0,Envoy Air
+1962,-2.0,ExpressJet Airlines Inc.
+1963,0.0,Frontier Airlines Inc.
+1964,-3.0,Southwest Airlines Co.
+1965,9.0,ExpressJet Airlines Inc.
+1966,-37.0,Endeavor Air Inc.
+1967,-25.0,Endeavor Air Inc.
+1968,8.0,JetBlue Airways
+1969,-15.0,JetBlue Airways
+1970,-25.0,United Air Lines Inc.
+1971,-20.0,United Air Lines Inc.
+1972,-11.0,JetBlue Airways
+1973,5.0,Envoy Air
+1974,9.0,JetBlue Airways
+1975,-28.0,United Air Lines Inc.
+1976,2.0,JetBlue Airways
+1977,36.0,ExpressJet Airlines Inc.
+1978,25.0,ExpressJet Airlines Inc.
+1979,40.0,ExpressJet Airlines Inc.
+1980,14.0,ExpressJet Airlines Inc.
+1981,111.0,American Airlines Inc.
+1982,-12.0,Delta Air Lines Inc.
+1983,16.0,Endeavor Air Inc.
+1984,-9.0,Delta Air Lines Inc.
+1985,-5.0,US Airways Inc.
+1987,17.0,ExpressJet Airlines Inc.
+1988,-36.0,American Airlines Inc.
+1989,-30.0,Delta Air Lines Inc.
+1990,3.0,ExpressJet Airlines Inc.
+1991,50.0,ExpressJet Airlines Inc.
+1992,2.0,Delta Air Lines Inc.
+1993,18.0,Delta Air Lines Inc.
+1994,1.0,Envoy Air
+1995,-30.0,Virgin America
+1996,-9.0,United Air Lines Inc.
+1997,32.0,Endeavor Air Inc.
+1998,-20.0,American Airlines Inc.
+1999,31.0,United Air Lines Inc.
+2000,16.0,United Air Lines Inc.
+2001,20.0,JetBlue Airways
+2002,-11.0,JetBlue Airways
+2003,-17.0,United Air Lines Inc.
+2004,-35.0,United Air Lines Inc.
+2005,1.0,United Air Lines Inc.
+2006,-8.0,Delta Air Lines Inc.
+2007,18.0,Delta Air Lines Inc.
+2008,23.0,JetBlue Airways
+2010,3.0,JetBlue Airways
+2011,12.0,United Air Lines Inc.
+2012,-3.0,JetBlue Airways
+2013,26.0,United Air Lines Inc.
+2014,39.0,United Air Lines Inc.
+2016,-19.0,JetBlue Airways
+2017,13.0,United Air Lines Inc.
+2018,-26.0,Hawaiian Airlines Inc.
+2019,-5.0,American Airlines Inc.
+2020,83.0,JetBlue Airways
+2021,0.0,JetBlue Airways
+2022,4.0,ExpressJet Airlines Inc.
+2023,0.0,JetBlue Airways
+2024,17.0,Southwest Airlines Co.
+2025,0.0,JetBlue Airways
+2026,-28.0,Virgin America
+2027,15.0,Envoy Air
+2028,17.0,ExpressJet Airlines Inc.
+2029,-8.0,ExpressJet Airlines Inc.
+2030,-14.0,JetBlue Airways
+2031,-5.0,Southwest Airlines Co.
+2032,56.0,American Airlines Inc.
+2033,-19.0,United Air Lines Inc.
+2034,96.0,American Airlines Inc.
+2036,48.0,JetBlue Airways
+2037,102.0,American Airlines Inc.
+2038,25.0,JetBlue Airways
+2039,-14.0,Southwest Airlines Co.
+2040,-25.0,JetBlue Airways
+2041,-7.0,ExpressJet Airlines Inc.
+2042,22.0,Endeavor Air Inc.
+2043,-9.0,Endeavor Air Inc.
+2044,72.0,Envoy Air
+2045,-12.0,ExpressJet Airlines Inc.
+2046,1.0,Envoy Air
+2047,26.0,Envoy Air
+2048,-17.0,United Air Lines Inc.
+2049,-9.0,US Airways Inc.
+2050,-29.0,Delta Air Lines Inc.
+2051,-33.0,United Air Lines Inc.
+2052,-8.0,US Airways Inc.
+2053,6.0,United Air Lines Inc.
+2054,19.0,Delta Air Lines Inc.
+2055,10.0,United Air Lines Inc.
+2056,-48.0,Delta Air Lines Inc.
+2057,7.0,US Airways Inc.
+2058,-44.0,United Air Lines Inc.
+2059,85.0,American Airlines Inc.
+2060,4.0,JetBlue Airways
+2061,-1.0,Envoy Air
+2062,-2.0,US Airways Inc.
+2063,5.0,United Air Lines Inc.
+2064,97.0,American Airlines Inc.
+2065,14.0,American Airlines Inc.
+2066,-2.0,Delta Air Lines Inc.
+2067,-3.0,US Airways Inc.
+2068,41.0,Endeavor Air Inc.
+2069,44.0,American Airlines Inc.
+2070,11.0,AirTran Airways Corporation
+2071,-24.0,ExpressJet Airlines Inc.
+2072,-28.0,American Airlines Inc.
+2073,-5.0,Envoy Air
+2075,-43.0,American Airlines Inc.
+2076,-52.0,Virgin America
+2077,5.0,Delta Air Lines Inc.
+2078,-1.0,Delta Air Lines Inc.
+2079,16.0,JetBlue Airways
+2080,-12.0,ExpressJet Airlines Inc.
+2081,7.0,Delta Air Lines Inc.
+2082,-7.0,Envoy Air
+2083,0.0,JetBlue Airways
+2084,-3.0,ExpressJet Airlines Inc.
+2085,-4.0,ExpressJet Airlines Inc.
+2086,38.0,United Air Lines Inc.
+2087,-24.0,United Air Lines Inc.
+2088,-47.0,United Air Lines Inc.
+2089,11.0,JetBlue Airways
+2090,10.0,Delta Air Lines Inc.
+2091,-15.0,US Airways Inc.
+2092,-34.0,Delta Air Lines Inc.
+2093,-9.0,Envoy Air
+2094,-47.0,United Air Lines Inc.
+2095,-18.0,United Air Lines Inc.
+2096,-8.0,US Airways Inc.
+2097,-39.0,JetBlue Airways
+2098,-17.0,Southwest Airlines Co.
+2099,-3.0,Envoy Air
+2100,0.0,American Airlines Inc.
+2101,15.0,American Airlines Inc.
+2102,-19.0,United Air Lines Inc.
+2103,12.0,ExpressJet Airlines Inc.
+2104,-20.0,United Air Lines Inc.
+2105,-17.0,Delta Air Lines Inc.
+2106,-43.0,Virgin America
+2107,-8.0,Delta Air Lines Inc.
+2108,9.0,United Air Lines Inc.
+2109,-23.0,United Air Lines Inc.
+2110,-2.0,US Airways Inc.
+2111,-48.0,United Air Lines Inc.
+2112,23.0,JetBlue Airways
+2113,1.0,Delta Air Lines Inc.
+2114,-16.0,Envoy Air
+2115,-2.0,Southwest Airlines Co.
+2116,-17.0,Delta Air Lines Inc.
+2117,38.0,Delta Air Lines Inc.
+2118,10.0,American Airlines Inc.
+2119,-5.0,Delta Air Lines Inc.
+2120,25.0,JetBlue Airways
+2121,12.0,Delta Air Lines Inc.
+2122,8.0,Envoy Air
+2123,-13.0,Endeavor Air Inc.
+2124,2.0,Delta Air Lines Inc.
+2125,1.0,United Air Lines Inc.
+2126,0.0,AirTran Airways Corporation
+2127,-24.0,American Airlines Inc.
+2128,-18.0,JetBlue Airways
+2129,-2.0,ExpressJet Airlines Inc.
+2131,2.0,Envoy Air
+2132,11.0,Envoy Air
+2133,13.0,United Air Lines Inc.
+2134,17.0,JetBlue Airways
+2135,20.0,JetBlue Airways
+2136,-2.0,Envoy Air
+2137,41.0,Delta Air Lines Inc.
+2138,19.0,Southwest Airlines Co.
+2139,10.0,Envoy Air
+2140,45.0,JetBlue Airways
+2141,4.0,US Airways Inc.
+2142,40.0,ExpressJet Airlines Inc.
+2143,7.0,American Airlines Inc.
+2144,-9.0,ExpressJet Airlines Inc.
+2145,-52.0,JetBlue Airways
+2146,-3.0,Envoy Air
+2147,13.0,Delta Air Lines Inc.
+2148,-22.0,United Air Lines Inc.
+2149,13.0,Southwest Airlines Co.
+2150,30.0,United Air Lines Inc.
+2151,37.0,ExpressJet Airlines Inc.
+2152,3.0,JetBlue Airways
+2153,-6.0,ExpressJet Airlines Inc.
+2155,1.0,Envoy Air
+2156,5.0,Delta Air Lines Inc.
+2157,2.0,Southwest Airlines Co.
+2158,-5.0,American Airlines Inc.
+2159,24.0,American Airlines Inc.
+2160,-18.0,Southwest Airlines Co.
+2161,-7.0,American Airlines Inc.
+2162,-13.0,Delta Air Lines Inc.
+2163,0.0,Delta Air Lines Inc.
+2164,0.0,American Airlines Inc.
+2165,-8.0,United Air Lines Inc.
+2166,15.0,ExpressJet Airlines Inc.
+2167,-20.0,Endeavor Air Inc.
+2168,5.0,Envoy Air
+2169,4.0,Endeavor Air Inc.
+2170,-17.0,American Airlines Inc.
+2171,-14.0,United Air Lines Inc.
+2172,-7.0,ExpressJet Airlines Inc.
+2173,-17.0,JetBlue Airways
+2174,-2.0,ExpressJet Airlines Inc.
+2175,13.0,JetBlue Airways
+2176,61.0,ExpressJet Airlines Inc.
+2177,12.0,JetBlue Airways
+2178,-22.0,Southwest Airlines Co.
+2179,6.0,United Air Lines Inc.
+2180,-1.0,AirTran Airways Corporation
+2181,7.0,Southwest Airlines Co.
+2182,-12.0,United Air Lines Inc.
+2183,-9.0,Envoy Air
+2184,-14.0,United Air Lines Inc.
+2185,0.0,US Airways Inc.
+2186,3.0,ExpressJet Airlines Inc.
+2187,38.0,United Air Lines Inc.
+2188,67.0,JetBlue Airways
+2189,8.0,Delta Air Lines Inc.
+2190,-3.0,US Airways Inc.
+2191,44.0,ExpressJet Airlines Inc.
+2192,7.0,JetBlue Airways
+2193,-31.0,JetBlue Airways
+2194,57.0,ExpressJet Airlines Inc.
+2195,-13.0,ExpressJet Airlines Inc.
+2196,5.0,Envoy Air
+2197,25.0,ExpressJet Airlines Inc.
+2198,113.0,ExpressJet Airlines Inc.
+2199,16.0,ExpressJet Airlines Inc.
+2200,-46.0,Virgin America
+2201,-36.0,United Air Lines Inc.
+2202,-22.0,Southwest Airlines Co.
+2203,60.0,American Airlines Inc.
+2204,5.0,American Airlines Inc.
+2205,26.0,JetBlue Airways
+2206,-41.0,JetBlue Airways
+2207,15.0,JetBlue Airways
+2208,7.0,ExpressJet Airlines Inc.
+2209,-13.0,American Airlines Inc.
+2210,34.0,JetBlue Airways
+2211,-9.0,US Airways Inc.
+2213,-9.0,United Air Lines Inc.
+2214,-9.0,Southwest Airlines Co.
+2215,-20.0,JetBlue Airways
+2216,-12.0,ExpressJet Airlines Inc.
+2217,-1.0,American Airlines Inc.
+2218,28.0,JetBlue Airways
+2219,5.0,Envoy Air
+2220,28.0,JetBlue Airways
+2221,25.0,ExpressJet Airlines Inc.
+2222,4.0,Delta Air Lines Inc.
+2223,-10.0,JetBlue Airways
+2224,1.0,AirTran Airways Corporation
+2225,51.0,ExpressJet Airlines Inc.
+2226,12.0,United Air Lines Inc.
+2227,10.0,Delta Air Lines Inc.
+2228,21.0,ExpressJet Airlines Inc.
+2229,-1.0,United Air Lines Inc.
+2230,-4.0,Envoy Air
+2231,12.0,United Air Lines Inc.
+2232,38.0,ExpressJet Airlines Inc.
+2233,-19.0,JetBlue Airways
+2234,31.0,United Air Lines Inc.
+2235,16.0,Envoy Air
+2236,16.0,ExpressJet Airlines Inc.
+2237,-43.0,United Air Lines Inc.
+2238,11.0,United Air Lines Inc.
+2239,-7.0,Envoy Air
+2240,-20.0,Mesa Airlines Inc.
+2241,6.0,American Airlines Inc.
+2242,-7.0,Delta Air Lines Inc.
+2243,-11.0,Delta Air Lines Inc.
+2244,12.0,JetBlue Airways
+2245,-19.0,Delta Air Lines Inc.
+2246,9.0,JetBlue Airways
+2247,-7.0,ExpressJet Airlines Inc.
+2248,-15.0,US Airways Inc.
+2249,79.0,JetBlue Airways
+2250,-5.0,United Air Lines Inc.
+2251,6.0,ExpressJet Airlines Inc.
+2252,35.0,ExpressJet Airlines Inc.
+2253,16.0,Envoy Air
+2254,-9.0,Envoy Air
+2255,-23.0,United Air Lines Inc.
+2256,-4.0,Endeavor Air Inc.
+2257,-8.0,Endeavor Air Inc.
+2258,-9.0,Envoy Air
+2259,-4.0,United Air Lines Inc.
+2260,-31.0,US Airways Inc.
+2261,15.0,ExpressJet Airlines Inc.
+2262,-27.0,US Airways Inc.
+2263,-22.0,American Airlines Inc.
+2264,7.0,Delta Air Lines Inc.
+2265,-9.0,JetBlue Airways
+2266,-21.0,Delta Air Lines Inc.
+2267,3.0,United Air Lines Inc.
+2268,-29.0,American Airlines Inc.
+2269,-38.0,Delta Air Lines Inc.
+2270,1.0,Envoy Air
+2271,31.0,United Air Lines Inc.
+2272,15.0,ExpressJet Airlines Inc.
+2273,5.0,JetBlue Airways
+2274,4.0,United Air Lines Inc.
+2275,-9.0,ExpressJet Airlines Inc.
+2276,-7.0,JetBlue Airways
+2277,10.0,US Airways Inc.
+2278,24.0,Endeavor Air Inc.
+2279,-3.0,ExpressJet Airlines Inc.
+2280,-12.0,Delta Air Lines Inc.
+2281,-26.0,United Air Lines Inc.
+2282,24.0,Endeavor Air Inc.
+2283,81.0,Delta Air Lines Inc.
+2284,16.0,Envoy Air
+2285,16.0,JetBlue Airways
+2287,-8.0,United Air Lines Inc.
+2288,44.0,United Air Lines Inc.
+2289,1.0,ExpressJet Airlines Inc.
+2290,-7.0,Envoy Air
+2291,-9.0,United Air Lines Inc.
+2292,25.0,JetBlue Airways
+2293,18.0,American Airlines Inc.
+2294,-9.0,Envoy Air
+2295,9.0,United Air Lines Inc.
+2296,-14.0,Endeavor Air Inc.
+2297,5.0,Delta Air Lines Inc.
+2298,19.0,American Airlines Inc.
+2299,12.0,Envoy Air
+2300,-1.0,Envoy Air
+2301,10.0,ExpressJet Airlines Inc.
+2302,50.0,JetBlue Airways
+2303,-10.0,Southwest Airlines Co.
+2304,20.0,United Air Lines Inc.
+2305,14.0,ExpressJet Airlines Inc.
+2306,39.0,JetBlue Airways
+2307,0.0,American Airlines Inc.
+2308,-18.0,United Air Lines Inc.
+2309,-3.0,Envoy Air
+2310,1.0,ExpressJet Airlines Inc.
+2311,-1.0,US Airways Inc.
+2312,49.0,ExpressJet Airlines Inc.
+2313,2.0,American Airlines Inc.
+2314,7.0,Southwest Airlines Co.
+2315,8.0,United Air Lines Inc.
+2316,11.0,JetBlue Airways
+2317,37.0,American Airlines Inc.
+2318,2.0,Endeavor Air Inc.
+2319,2.0,JetBlue Airways
+2320,40.0,United Air Lines Inc.
+2321,26.0,ExpressJet Airlines Inc.
+2322,-27.0,Endeavor Air Inc.
+2323,5.0,Delta Air Lines Inc.
+2324,32.0,Endeavor Air Inc.
+2325,-19.0,American Airlines Inc.
+2326,-23.0,JetBlue Airways
+2327,-5.0,Endeavor Air Inc.
+2328,-15.0,United Air Lines Inc.
+2329,-4.0,JetBlue Airways
+2330,70.0,ExpressJet Airlines Inc.
+2331,-19.0,United Air Lines Inc.
+2332,16.0,Endeavor Air Inc.
+2333,58.0,JetBlue Airways
+2334,11.0,Endeavor Air Inc.
+2335,-23.0,Mesa Airlines Inc.
+2336,-3.0,Envoy Air
+2337,-7.0,JetBlue Airways
+2338,0.0,American Airlines Inc.
+2339,4.0,Delta Air Lines Inc.
+2340,-18.0,Delta Air Lines Inc.
+2341,-14.0,United Air Lines Inc.
+2342,10.0,ExpressJet Airlines Inc.
+2343,0.0,Endeavor Air Inc.
+2344,-11.0,Envoy Air
+2345,-16.0,Delta Air Lines Inc.
+2346,-17.0,United Air Lines Inc.
+2347,-27.0,Delta Air Lines Inc.
+2348,-43.0,United Air Lines Inc.
+2349,-49.0,United Air Lines Inc.
+2350,5.0,Delta Air Lines Inc.
+2351,25.0,Delta Air Lines Inc.
+2352,44.0,AirTran Airways Corporation
+2354,-18.0,Delta Air Lines Inc.
+2355,-26.0,Southwest Airlines Co.
+2356,41.0,ExpressJet Airlines Inc.
+2357,-25.0,American Airlines Inc.
+2358,5.0,JetBlue Airways
+2359,18.0,JetBlue Airways
+2360,0.0,Endeavor Air Inc.
+2361,23.0,Delta Air Lines Inc.
+2362,48.0,JetBlue Airways
+2363,43.0,Envoy Air
+2364,-33.0,US Airways Inc.
+2365,1.0,ExpressJet Airlines Inc.
+2367,-4.0,Envoy Air
+2368,5.0,ExpressJet Airlines Inc.
+2369,7.0,Endeavor Air Inc.
+2370,-59.0,JetBlue Airways
+2371,-3.0,Delta Air Lines Inc.
+2372,-14.0,Delta Air Lines Inc.
+2373,-2.0,United Air Lines Inc.
+2374,-14.0,Envoy Air
+2375,58.0,Delta Air Lines Inc.
+2376,6.0,United Air Lines Inc.
+2377,-52.0,US Airways Inc.
+2378,2.0,Endeavor Air Inc.
+2379,1.0,Delta Air Lines Inc.
+2380,-31.0,Southwest Airlines Co.
+2381,16.0,ExpressJet Airlines Inc.
+2382,-28.0,ExpressJet Airlines Inc.
+2383,-7.0,Endeavor Air Inc.
+2384,-10.0,United Air Lines Inc.
+2385,-3.0,JetBlue Airways
+2386,6.0,American Airlines Inc.
+2387,63.0,American Airlines Inc.
+2388,-34.0,American Airlines Inc.
+2389,22.0,Envoy Air
+2390,-33.0,Virgin America
+2391,17.0,ExpressJet Airlines Inc.
+2392,17.0,ExpressJet Airlines Inc.
+2393,-13.0,Delta Air Lines Inc.
+2394,-53.0,United Air Lines Inc.
+2395,-47.0,JetBlue Airways
+2396,-35.0,Envoy Air
+2397,-3.0,Delta Air Lines Inc.
+2398,27.0,ExpressJet Airlines Inc.
+2399,-22.0,JetBlue Airways
+2400,-2.0,Delta Air Lines Inc.
+2401,-10.0,Southwest Airlines Co.
+2402,45.0,Endeavor Air Inc.
+2403,-30.0,Delta Air Lines Inc.
+2404,-1.0,Envoy Air
+2405,-42.0,Delta Air Lines Inc.
+2406,-12.0,United Air Lines Inc.
+2407,-32.0,American Airlines Inc.
+2408,-23.0,Delta Air Lines Inc.
+2409,4.0,Delta Air Lines Inc.
+2410,18.0,American Airlines Inc.
+2411,10.0,Southwest Airlines Co.
+2412,-11.0,US Airways Inc.
+2413,-23.0,JetBlue Airways
+2414,26.0,American Airlines Inc.
+2415,-5.0,Envoy Air
+2416,-15.0,ExpressJet Airlines Inc.
+2417,-2.0,Delta Air Lines Inc.
+2418,-17.0,United Air Lines Inc.
+2419,-16.0,United Air Lines Inc.
+2420,63.0,American Airlines Inc.
+2421,16.0,JetBlue Airways
+2422,-5.0,ExpressJet Airlines Inc.
+2423,2.0,United Air Lines Inc.
+2424,-49.0,Delta Air Lines Inc.
+2425,40.0,ExpressJet Airlines Inc.
+2426,-1.0,JetBlue Airways
+2427,4.0,Delta Air Lines Inc.
+2428,5.0,AirTran Airways Corporation
+2429,12.0,American Airlines Inc.
+2430,-21.0,American Airlines Inc.
+2431,-17.0,Virgin America
+2432,-12.0,US Airways Inc.
+2433,-19.0,American Airlines Inc.
+2434,-26.0,United Air Lines Inc.
+2435,59.0,ExpressJet Airlines Inc.
+2436,41.0,JetBlue Airways
+2437,-2.0,ExpressJet Airlines Inc.
+2438,-33.0,United Air Lines Inc.
+2439,7.0,Envoy Air
+2440,-30.0,American Airlines Inc.
+2441,1.0,United Air Lines Inc.
+2442,13.0,United Air Lines Inc.
+2443,21.0,United Air Lines Inc.
+2444,71.0,ExpressJet Airlines Inc.
+2445,-27.0,JetBlue Airways
+2446,-51.0,Delta Air Lines Inc.
+2447,-8.0,American Airlines Inc.
+2448,21.0,American Airlines Inc.
+2449,-27.0,Envoy Air
+2450,21.0,United Air Lines Inc.
+2451,-3.0,Delta Air Lines Inc.
+2452,4.0,JetBlue Airways
+2453,-8.0,JetBlue Airways
+2454,25.0,ExpressJet Airlines Inc.
+2455,48.0,ExpressJet Airlines Inc.
+2456,-2.0,Southwest Airlines Co.
+2457,-22.0,United Air Lines Inc.
+2458,8.0,JetBlue Airways
+2459,-33.0,United Air Lines Inc.
+2460,1.0,American Airlines Inc.
+2461,-7.0,Delta Air Lines Inc.
+2462,-26.0,United Air Lines Inc.
+2463,-9.0,Delta Air Lines Inc.
+2464,-1.0,United Air Lines Inc.
+2465,27.0,ExpressJet Airlines Inc.
+2466,110.0,American Airlines Inc.
+2467,6.0,JetBlue Airways
+2468,-17.0,JetBlue Airways
+2469,-18.0,Envoy Air
+2470,9.0,ExpressJet Airlines Inc.
+2471,81.0,JetBlue Airways
+2472,28.0,ExpressJet Airlines Inc.
+2473,-17.0,American Airlines Inc.
+2474,20.0,Southwest Airlines Co.
+2475,-24.0,United Air Lines Inc.
+2476,24.0,United Air Lines Inc.
+2477,-56.0,JetBlue Airways
+2478,-9.0,Southwest Airlines Co.
+2479,2.0,United Air Lines Inc.
+2480,-15.0,Endeavor Air Inc.
+2481,-37.0,United Air Lines Inc.
+2482,15.0,JetBlue Airways
+2483,-27.0,Delta Air Lines Inc.
+2484,14.0,US Airways Inc.
+2485,-24.0,JetBlue Airways
+2486,19.0,United Air Lines Inc.
+2487,-5.0,ExpressJet Airlines Inc.
+2488,5.0,United Air Lines Inc.
+2489,-9.0,Alaska Airlines Inc.
+2490,-42.0,American Airlines Inc.
+2491,3.0,United Air Lines Inc.
+2492,8.0,ExpressJet Airlines Inc.
+2493,6.0,Delta Air Lines Inc.
+2494,-24.0,Envoy Air
+2496,10.0,United Air Lines Inc.
+2497,-8.0,US Airways Inc.
+2498,11.0,Endeavor Air Inc.
+2499,-53.0,United Air Lines Inc.
+2500,-12.0,United Air Lines Inc.
+2501,11.0,Southwest Airlines Co.
+2502,-36.0,JetBlue Airways
+2503,-7.0,United Air Lines Inc.
+2504,-13.0,American Airlines Inc.
+2505,-1.0,Envoy Air
+2507,15.0,Endeavor Air Inc.
+2508,66.0,American Airlines Inc.
+2509,-37.0,American Airlines Inc.
+2510,55.0,JetBlue Airways
+2511,36.0,ExpressJet Airlines Inc.
+2512,-41.0,Delta Air Lines Inc.
+2513,64.0,JetBlue Airways
+2514,-37.0,Envoy Air
+2515,50.0,Envoy Air
+2516,-21.0,American Airlines Inc.
+2517,-12.0,Delta Air Lines Inc.
+2519,36.0,ExpressJet Airlines Inc.
+2520,31.0,United Air Lines Inc.
+2521,-18.0,ExpressJet Airlines Inc.
+2522,28.0,American Airlines Inc.
+2523,-2.0,Delta Air Lines Inc.
+2524,-8.0,AirTran Airways Corporation
+2525,-37.0,Delta Air Lines Inc.
+2526,-16.0,US Airways Inc.
+2527,-6.0,US Airways Inc.
+2528,-19.0,ExpressJet Airlines Inc.
+2529,-45.0,JetBlue Airways
+2530,-15.0,Delta Air Lines Inc.
+2531,-26.0,Southwest Airlines Co.
+2533,1.0,JetBlue Airways
+2534,-5.0,Delta Air Lines Inc.
+2535,0.0,ExpressJet Airlines Inc.
+2536,1.0,ExpressJet Airlines Inc.
+2538,-7.0,Envoy Air
+2539,8.0,American Airlines Inc.
+2540,-37.0,United Air Lines Inc.
+2541,-12.0,ExpressJet Airlines Inc.
+2542,-40.0,American Airlines Inc.
+2543,72.0,JetBlue Airways
+2544,-22.0,Delta Air Lines Inc.
+2545,-33.0,Virgin America
+2546,10.0,United Air Lines Inc.
+2547,-30.0,American Airlines Inc.
+2548,14.0,ExpressJet Airlines Inc.
+2549,-14.0,Delta Air Lines Inc.
+2550,10.0,United Air Lines Inc.
+2551,-56.0,Delta Air Lines Inc.
+2552,-60.0,Delta Air Lines Inc.
+2553,-8.0,Delta Air Lines Inc.
+2554,7.0,Endeavor Air Inc.
+2555,1.0,Delta Air Lines Inc.
+2556,38.0,Endeavor Air Inc.
+2557,-27.0,United Air Lines Inc.
+2558,-15.0,Delta Air Lines Inc.
+2559,-25.0,Delta Air Lines Inc.
+2561,8.0,Delta Air Lines Inc.
+2562,45.0,American Airlines Inc.
+2563,98.0,Frontier Airlines Inc.
+2564,30.0,Endeavor Air Inc.
+2565,15.0,Endeavor Air Inc.
+2566,5.0,United Air Lines Inc.
+2567,23.0,ExpressJet Airlines Inc.
+2568,0.0,Endeavor Air Inc.
+2569,-27.0,Endeavor Air Inc.
+2570,6.0,ExpressJet Airlines Inc.
+2571,67.0,United Air Lines Inc.
+2572,26.0,United Air Lines Inc.
+2573,29.0,ExpressJet Airlines Inc.
+2574,13.0,Delta Air Lines Inc.
+2575,62.0,Delta Air Lines Inc.
+2576,46.0,JetBlue Airways
+2577,1.0,JetBlue Airways
+2578,-9.0,Envoy Air
+2579,16.0,American Airlines Inc.
+2580,0.0,Envoy Air
+2581,-7.0,Endeavor Air Inc.
+2582,-18.0,American Airlines Inc.
+2583,23.0,JetBlue Airways
+2584,-57.0,JetBlue Airways
+2585,-16.0,Delta Air Lines Inc.
+2586,-9.0,United Air Lines Inc.
+2587,-13.0,United Air Lines Inc.
+2588,12.0,Endeavor Air Inc.
+2589,30.0,Endeavor Air Inc.
+2590,-36.0,Delta Air Lines Inc.
+2591,71.0,Envoy Air
+2592,-20.0,United Air Lines Inc.
+2593,-9.0,United Air Lines Inc.
+2594,-17.0,ExpressJet Airlines Inc.
+2595,33.0,Delta Air Lines Inc.
+2596,85.0,Envoy Air
+2597,21.0,JetBlue Airways
+2599,17.0,ExpressJet Airlines Inc.
+2601,16.0,ExpressJet Airlines Inc.
+2602,43.0,ExpressJet Airlines Inc.
+2603,24.0,Endeavor Air Inc.
+2604,-14.0,American Airlines Inc.
+2605,-4.0,Envoy Air
+2606,-22.0,Virgin America
+2607,17.0,Endeavor Air Inc.
+2608,3.0,AirTran Airways Corporation
+2609,80.0,Delta Air Lines Inc.
+2610,-26.0,United Air Lines Inc.
+2611,23.0,ExpressJet Airlines Inc.
+2612,-17.0,JetBlue Airways
+2613,18.0,Envoy Air
+2614,-20.0,Endeavor Air Inc.
+2615,-8.0,ExpressJet Airlines Inc.
+2616,34.0,ExpressJet Airlines Inc.
+2617,105.0,ExpressJet Airlines Inc.
+2618,-10.0,United Air Lines Inc.
+2619,-21.0,United Air Lines Inc.
+2620,65.0,American Airlines Inc.
+2621,13.0,JetBlue Airways
+2622,30.0,JetBlue Airways
+2623,-7.0,ExpressJet Airlines Inc.
+2624,51.0,ExpressJet Airlines Inc.
+2625,-1.0,United Air Lines Inc.
+2626,111.0,United Air Lines Inc.
+2627,19.0,United Air Lines Inc.
+2628,-20.0,American Airlines Inc.
+2629,-10.0,JetBlue Airways
+2630,11.0,JetBlue Airways
+2631,1.0,United Air Lines Inc.
+2632,71.0,JetBlue Airways
+2633,44.0,Southwest Airlines Co.
+2634,-1.0,Envoy Air
+2635,45.0,United Air Lines Inc.
+2636,-13.0,Envoy Air
+2638,30.0,JetBlue Airways
+2639,67.0,JetBlue Airways
+2640,-28.0,Southwest Airlines Co.
+2641,59.0,ExpressJet Airlines Inc.
+2642,75.0,ExpressJet Airlines Inc.
+2643,4.0,ExpressJet Airlines Inc.
+2644,-32.0,JetBlue Airways
+2645,1.0,ExpressJet Airlines Inc.
+2646,8.0,ExpressJet Airlines Inc.
+2647,24.0,United Air Lines Inc.
+2648,5.0,Envoy Air
+2649,-1.0,Envoy Air
+2650,29.0,JetBlue Airways
+2651,51.0,Endeavor Air Inc.
+2652,21.0,JetBlue Airways
+2653,45.0,JetBlue Airways
+2655,18.0,Delta Air Lines Inc.
+2656,89.0,ExpressJet Airlines Inc.
+2657,-1.0,Envoy Air
+2658,-2.0,ExpressJet Airlines Inc.
+2659,38.0,United Air Lines Inc.
+2660,23.0,JetBlue Airways
+2661,-52.0,JetBlue Airways
+2662,0.0,United Air Lines Inc.
+2663,15.0,ExpressJet Airlines Inc.
+2664,11.0,JetBlue Airways
+2665,-52.0,American Airlines Inc.
+2666,-6.0,JetBlue Airways
+2667,2.0,JetBlue Airways
+2668,6.0,JetBlue Airways
+2669,-5.0,JetBlue Airways
+2670,9.0,JetBlue Airways
+2671,-12.0,ExpressJet Airlines Inc.
+2672,-8.0,JetBlue Airways
+2673,0.0,ExpressJet Airlines Inc.
+2674,-1.0,ExpressJet Airlines Inc.
+2675,37.0,Envoy Air
+2676,90.0,Endeavor Air Inc.
+2677,26.0,JetBlue Airways
+2678,-13.0,JetBlue Airways
+2679,28.0,Delta Air Lines Inc.
+2680,-7.0,JetBlue Airways
+2681,49.0,JetBlue Airways
+2683,13.0,JetBlue Airways
+2684,0.0,JetBlue Airways
+2685,25.0,JetBlue Airways
+2686,16.0,JetBlue Airways
+2687,16.0,JetBlue Airways
+2688,-11.0,JetBlue Airways
+2699,23.0,JetBlue Airways
+2701,-19.0,US Airways Inc.
+2702,-7.0,United Air Lines Inc.
+2703,12.0,United Air Lines Inc.
+2704,1.0,American Airlines Inc.
+2705,-17.0,JetBlue Airways
+2706,-29.0,Delta Air Lines Inc.
+2707,-5.0,JetBlue Airways
+2708,-13.0,Delta Air Lines Inc.
+2709,-8.0,JetBlue Airways
+2710,-16.0,ExpressJet Airlines Inc.
+2711,-3.0,JetBlue Airways
+2712,-9.0,ExpressJet Airlines Inc.
+2713,-12.0,JetBlue Airways
+2714,-9.0,Envoy Air
+2715,-14.0,US Airways Inc.
+2716,-14.0,ExpressJet Airlines Inc.
+2717,0.0,JetBlue Airways
+2718,-23.0,United Air Lines Inc.
+2719,-14.0,Southwest Airlines Co.
+2720,-13.0,Envoy Air
+2721,6.0,AirTran Airways Corporation
+2722,-3.0,Envoy Air
+2723,-12.0,Southwest Airlines Co.
+2724,-8.0,ExpressJet Airlines Inc.
+2725,5.0,American Airlines Inc.
+2726,-22.0,United Air Lines Inc.
+2727,-22.0,United Air Lines Inc.
+2728,-13.0,ExpressJet Airlines Inc.
+2729,-6.0,American Airlines Inc.
+2730,-5.0,JetBlue Airways
+2731,-16.0,American Airlines Inc.
+2732,-18.0,Delta Air Lines Inc.
+2733,-30.0,United Air Lines Inc.
+2734,0.0,American Airlines Inc.
+2735,17.0,JetBlue Airways
+2736,-10.0,United Air Lines Inc.
+2737,1.0,ExpressJet Airlines Inc.
+2738,-13.0,Envoy Air
+2739,-9.0,JetBlue Airways
+2740,-6.0,Delta Air Lines Inc.
+2741,-17.0,United Air Lines Inc.
+2742,-10.0,US Airways Inc.
+2743,-4.0,Endeavor Air Inc.
+2744,-27.0,US Airways Inc.
+2745,-19.0,United Air Lines Inc.
+2746,6.0,ExpressJet Airlines Inc.
+2747,-5.0,Envoy Air
+2748,-10.0,US Airways Inc.
+2749,-12.0,Envoy Air
+2750,-6.0,US Airways Inc.
+2751,-16.0,American Airlines Inc.
+2752,-31.0,US Airways Inc.
+2753,-5.0,ExpressJet Airlines Inc.
+2754,1.0,ExpressJet Airlines Inc.
+2755,7.0,ExpressJet Airlines Inc.
+2756,-23.0,Southwest Airlines Co.
+2757,-3.0,ExpressJet Airlines Inc.
+2758,-9.0,ExpressJet Airlines Inc.
+2759,-1.0,United Air Lines Inc.
+2760,-50.0,United Air Lines Inc.
+2761,-17.0,United Air Lines Inc.
+2762,-12.0,United Air Lines Inc.
+2763,32.0,JetBlue Airways
+2764,-51.0,United Air Lines Inc.
+2765,-16.0,American Airlines Inc.
+2766,-1.0,ExpressJet Airlines Inc.
+2767,-24.0,American Airlines Inc.
+2768,-5.0,Delta Air Lines Inc.
+2769,6.0,US Airways Inc.
+2770,-1.0,JetBlue Airways
+2771,-6.0,JetBlue Airways
+2772,-10.0,JetBlue Airways
+2773,-38.0,United Air Lines Inc.
+2774,4.0,ExpressJet Airlines Inc.
+2775,-20.0,United Air Lines Inc.
+2776,-57.0,Delta Air Lines Inc.
+2777,-1.0,Delta Air Lines Inc.
+2778,-32.0,United Air Lines Inc.
+2779,-2.0,JetBlue Airways
+2780,-12.0,Delta Air Lines Inc.
+2781,-4.0,American Airlines Inc.
+2782,-45.0,JetBlue Airways
+2783,-13.0,Delta Air Lines Inc.
+2784,3.0,US Airways Inc.
+2785,-44.0,Virgin America
+2786,-29.0,Southwest Airlines Co.
+2787,-6.0,Envoy Air
+2788,-10.0,United Air Lines Inc.
+2789,-41.0,United Air Lines Inc.
+2790,8.0,United Air Lines Inc.
+2791,4.0,ExpressJet Airlines Inc.
+2792,18.0,American Airlines Inc.
+2793,-4.0,United Air Lines Inc.
+2794,-37.0,United Air Lines Inc.
+2795,19.0,ExpressJet Airlines Inc.
+2796,-5.0,United Air Lines Inc.
+2797,24.0,Envoy Air
+2798,-18.0,United Air Lines Inc.
+2799,-23.0,American Airlines Inc.
+2800,-14.0,American Airlines Inc.
+2801,-23.0,Delta Air Lines Inc.
+2802,-15.0,United Air Lines Inc.
+2803,-21.0,Delta Air Lines Inc.
+2804,36.0,JetBlue Airways
+2805,15.0,AirTran Airways Corporation
+2806,17.0,Delta Air Lines Inc.
+2807,-13.0,JetBlue Airways
+2808,18.0,JetBlue Airways
+2809,-5.0,JetBlue Airways
+2810,-11.0,American Airlines Inc.
+2811,-25.0,American Airlines Inc.
+2812,1.0,Alaska Airlines Inc.
+2813,-21.0,United Air Lines Inc.
+2814,-50.0,Virgin America
+2815,-36.0,American Airlines Inc.
+2816,-18.0,Delta Air Lines Inc.
+2817,4.0,JetBlue Airways
+2818,3.0,JetBlue Airways
+2819,38.0,Delta Air Lines Inc.
+2820,-43.0,JetBlue Airways
+2821,-14.0,Delta Air Lines Inc.
+2822,-11.0,United Air Lines Inc.
+2823,14.0,American Airlines Inc.
+2824,5.0,JetBlue Airways
+2825,3.0,JetBlue Airways
+2826,-15.0,United Air Lines Inc.
+2827,-4.0,Endeavor Air Inc.
+2828,33.0,JetBlue Airways
+2829,-19.0,American Airlines Inc.
+2830,0.0,Endeavor Air Inc.
+2831,-22.0,Delta Air Lines Inc.
+2832,-15.0,United Air Lines Inc.
+2833,-12.0,American Airlines Inc.
+2834,-25.0,ExpressJet Airlines Inc.
+2835,-12.0,American Airlines Inc.
+2836,-9.0,Delta Air Lines Inc.
+2837,-34.0,Southwest Airlines Co.
+2838,-8.0,United Air Lines Inc.
+2839,-15.0,Delta Air Lines Inc.
+2840,-27.0,United Air Lines Inc.
+2841,-4.0,ExpressJet Airlines Inc.
+2842,-10.0,JetBlue Airways
+2843,-10.0,Delta Air Lines Inc.
+2844,-4.0,United Air Lines Inc.
+2845,-7.0,ExpressJet Airlines Inc.
+2846,1.0,JetBlue Airways
+2847,40.0,ExpressJet Airlines Inc.
+2848,3.0,US Airways Inc.
+2849,-19.0,Southwest Airlines Co.
+2850,-2.0,Endeavor Air Inc.
+2851,-3.0,Envoy Air
+2852,-6.0,United Air Lines Inc.
+2853,9.0,ExpressJet Airlines Inc.
+2854,16.0,JetBlue Airways
+2855,-13.0,Delta Air Lines Inc.
+2856,-6.0,Delta Air Lines Inc.
+2857,-9.0,Delta Air Lines Inc.
+2858,-19.0,Envoy Air
+2859,-1.0,AirTran Airways Corporation
+2860,31.0,United Air Lines Inc.
+2861,-12.0,US Airways Inc.
+2862,-2.0,Endeavor Air Inc.
+2863,0.0,American Airlines Inc.
+2864,-12.0,ExpressJet Airlines Inc.
+2865,20.0,American Airlines Inc.
+2866,18.0,JetBlue Airways
+2867,3.0,Endeavor Air Inc.
+2868,-16.0,Delta Air Lines Inc.
+2869,-17.0,Envoy Air
+2870,-11.0,ExpressJet Airlines Inc.
+2871,-16.0,Delta Air Lines Inc.
+2872,-26.0,JetBlue Airways
+2873,-5.0,JetBlue Airways
+2874,-27.0,ExpressJet Airlines Inc.
+2875,-21.0,Delta Air Lines Inc.
+2876,1.0,Envoy Air
+2877,-14.0,ExpressJet Airlines Inc.
+2878,10.0,US Airways Inc.
+2879,15.0,Endeavor Air Inc.
+2880,37.0,Delta Air Lines Inc.
+2881,-17.0,United Air Lines Inc.
+2882,-57.0,United Air Lines Inc.
+2883,1.0,Endeavor Air Inc.
+2884,46.0,JetBlue Airways
+2885,-18.0,Envoy Air
+2886,33.0,Delta Air Lines Inc.
+2887,25.0,JetBlue Airways
+2888,-12.0,Southwest Airlines Co.
+2889,-3.0,Frontier Airlines Inc.
+2890,-19.0,United Air Lines Inc.
+2891,-6.0,ExpressJet Airlines Inc.
+2892,-3.0,Envoy Air
+2893,-20.0,United Air Lines Inc.
+2894,-2.0,Endeavor Air Inc.
+2895,29.0,American Airlines Inc.
+2896,27.0,ExpressJet Airlines Inc.
+2897,-12.0,JetBlue Airways
+2898,-7.0,American Airlines Inc.
+2899,-3.0,Envoy Air
+2900,-34.0,United Air Lines Inc.
+2901,25.0,JetBlue Airways
+2902,-5.0,ExpressJet Airlines Inc.
+2903,-4.0,ExpressJet Airlines Inc.
+2904,-2.0,Envoy Air
+2905,-26.0,ExpressJet Airlines Inc.
+2906,-25.0,US Airways Inc.
+2907,-3.0,American Airlines Inc.
+2908,-22.0,Delta Air Lines Inc.
+2909,-26.0,United Air Lines Inc.
+2910,4.0,ExpressJet Airlines Inc.
+2911,0.0,American Airlines Inc.
+2912,-16.0,Delta Air Lines Inc.
+2913,-22.0,Delta Air Lines Inc.
+2914,-10.0,Virgin America
+2915,8.0,United Air Lines Inc.
+2916,-9.0,United Air Lines Inc.
+2917,-10.0,American Airlines Inc.
+2918,20.0,American Airlines Inc.
+2919,-12.0,Delta Air Lines Inc.
+2920,-8.0,Delta Air Lines Inc.
+2921,-7.0,United Air Lines Inc.
+2922,-14.0,Hawaiian Airlines Inc.
+2923,-2.0,Delta Air Lines Inc.
+2924,-50.0,United Air Lines Inc.
+2925,-16.0,United Air Lines Inc.
+2926,7.0,ExpressJet Airlines Inc.
+2927,-17.0,United Air Lines Inc.
+2928,-4.0,JetBlue Airways
+2929,-6.0,United Air Lines Inc.
+2930,-12.0,United Air Lines Inc.
+2931,42.0,JetBlue Airways
+2932,24.0,JetBlue Airways
+2933,-2.0,United Air Lines Inc.
+2934,20.0,JetBlue Airways
+2935,-9.0,United Air Lines Inc.
+2936,-12.0,American Airlines Inc.
+2937,-33.0,United Air Lines Inc.
+2938,5.0,JetBlue Airways
+2939,-15.0,Envoy Air
+2940,-17.0,JetBlue Airways
+2941,21.0,JetBlue Airways
+2942,11.0,Endeavor Air
